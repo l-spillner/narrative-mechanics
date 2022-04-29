@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" version="1.2">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>29/04/2022</lastmodified>
+    </meta>
+    <nodes>
+      <node id="As many as 15,000 Russian troops" label="As many as 15,000 Russian troops" />
+      <node id="Ukraine" label="Ukraine" />
+      <node id="NATO" label="NATO" />
+      <node id="Carlson" label="Carlson" />
+      <node id="Putin" label="Putin" />
+      <node id="elite Ukrainian drone unit" label="elite Ukrainian drone unit" />
+      <node id="Russian tanks" label="Russian tanks" />
+      <node id="STEELWORKS OTH1" label="STEELWORKS OTH1" />
+      <node id="DJ JETLAGGED" label="DJ JETLAGGED" />
+      <node id="Red Cross' Ukraine Crisis Appeal" label="Red Cross' Ukraine Crisis Appeal" />
+      <node id="WSJ News Exclusive" label="WSJ News Exclusive" />
+      <node id="Emirati Leaders" label="Emirati Leaders" />
+      <node id="Biden" label="Biden" />
+      <node id="Ukraine Crisis" label="Ukraine Crisis" />
+      <node id="Russia's foreign minister" label="Russia's foreign minister" />
+      <node id="China" label="China" />
+      <node id="Detained American basketball player Brittney Griner" label="Detained American basketball player Brittney Griner" />
+      <node id="US Embassy official" label="US Embassy official" />
+      <node id="Russia" label="Russia" />
+      <node id="State Department Spokesman Ned Price" label="State Department Spokesman Ned Price" />
+      <node id="XRPLcommunity ukrainewar defi" label="XRPLcommunity ukrainewar defi" />
+      <node id="Russian priest" label="Russian priest" />
+      <node id="Ukrainian Nazis" label="Ukrainian Nazis" />
+      <node id="American multinational corporations" label="American multinational corporations" />
+      <node id="Putin's first rodeo" label="Putin's first rodeo" />
+      <node id="Russia Ukraine" label="Russia Ukraine" />
+      <node id="Moscow" label="Moscow" />
+      <node id="Russian people" label="Russian people" />
+      <node id="not all Russians" label="not all Russians" />
+      <node id="Fiona Hill" label="Fiona Hill" />
+      <node id="NATO Ukrania Rusia UnitedNations Europe Kyiv" label="NATO Ukrania Rusia UnitedNations Europe Kyiv" />
+      <node id="Montana" label="Montana" />
+      <node id="Ukrainian refugees" label="Ukrainian refugees" />
+      <node id="Nikolaev Regional State Administration Kim" label="Nikolaev Regional State Administration Kim" />
+      <node id="UkraineWar Russia" label="UkraineWar Russia" />
+      <node id=" NATO allies" label=" NATO allies" />
+      <node id="Ukraine's demand" label="Ukraine's demand" />
+      <node id="broader, even more brutal European war" label="broader, even more brutal European war" />
+      <node id="Russia's assault" label="Russia's assault" />
+      <node id="Anastasiades" label="Anastasiades" />
+      <node id="Turkey" label="Turkey" />
+      <node id="Sweden" label="Sweden" />
+      <node id="Swedish media" label="Swedish media" />
+      <node id="Trudeau" label="Trudeau" />
+      <node id="G20" label="G20" />
+      <node id="Russia's seat" label="Russia's seat" />
+      <node id="CBC News" label="CBC News" />
+      <node id="Putin's invasion" label="Putin's invasion" />
+      <node id="European Left" label="European Left" />
+      <node id="Nadia" label="Nadia" />
+      <node id="her beloved city Mariupol" label="her beloved city Mariupol" />
+      <node id="EU" label="EU" />
+      <node id="Chernihiv" label="Chernihiv" />
+      <node id="Russian soldiers" label="Russian soldiers" />
+      <node id="US Army veteran" label="US Army veteran" />
+      <node id="'punchable' Tucker Carlson" label="'punchable' Tucker Carlson" />
+      <node id="Putin's the table" label="Putin's the table" />
+      <node id="Russian state TV host" label="Russian state TV host" />
+      <node id="Donald Trump" label="Donald Trump" />
+      <node id="US President" label="US President" />
+      <node id="Apple" label="Apple" />
+      <node id="Apple Pay" label="Apple Pay" />
+      <node id="ZDNet Ukraine UkraineRussiaWar UkraineRussia" label="ZDNet Ukraine UkraineRussiaWar UkraineRussia" />
+      <node id="&quot;Ukrainian war" label="&quot;Ukrainian war" />
+      <node id="Samsung" label="Samsung" />
+      <node id="Russia-Ukraine conflict" label="Russia-Ukraine conflict" />
+      <node id="VPN" label="VPN" />
+      <node id="Yahoo News" label="Yahoo News" />
+      <node id="Canadians" label="Canadians" />
+      <node id="Mariupol" label="Mariupol" />
+      <node id="Russian hands" label="Russian hands" />
+      <node id="Zelensky" label="Zelensky" />
+      <node id="Marsha Blackburn" label="Marsha Blackburn" />
+      <node id="Russian occupiers" label="Russian occupiers" />
+      <node id="Air Force Command" label="Air Force Command" />
+      <node id="Vinnytsia" label="Vinnytsia" />
+      <node id="Russians" label="Russians" />
+      <node id="US" label="US" />
+      <node id="RUSSIAN OIL" label="RUSSIAN OIL" />
+      <node id="russia" label="russia" />
+      <node id="FCC" label="FCC" />
+      <node id="Russian anti-virus firm Kaspersky" label="Russian anti-virus firm Kaspersky" />
+      <node id="U.S. national security" label="U.S. national security" />
+      <node id=", Joy Reid" label=", Joy Reid" />
+      <node id="(MSNBC" label="(MSNBC" />
+      <node id="Nikole Hannah-Jones" label="Nikole Hannah-Jones" />
+      <node id="(1619 BS) Ukraine war" label="(1619 BS) Ukraine war" />
+      <node id="Ilhan Omar" label="Ilhan Omar" />
+      <node id="(AOC Goon SQUAD" label="(AOC Goon SQUAD" />
+      <node id="Ukraine War" label="Ukraine War" />
+      <node id="Bidenomics" label="Bidenomics" />
+      <node id="Russian aggression" label="Russian aggression" />
+      <node id="AdolfPutin business" label="AdolfPutin business" />
+      <node id="Russia-Ukraine War Updates" label="Russia-Ukraine War Updates" />
+      <node id="Putin's invasion - India" label="Putin's invasion - India" />
+      <node id="Russian former F1 driver Nikita Mazepin" label="Russian former F1 driver Nikita Mazepin" />
+      <node id="father Dmitry" label="father Dmitry" />
+      <node id="EU sanctions list" label="EU sanctions list" />
+      <node id="RUSSIAN SOLDIERS" label="RUSSIAN SOLDIERS" />
+      <node id="Xi" label="Xi" />
+      <node id="Kim" label="Kim" />
+      <node id="GOP" label="GOP" />
+      <node id="Putin's orders" label="Putin's orders" />
+      <node id="Ukrainians" label="Ukrainians" />
+      <node id="450.000 Europeans EmmanuelMacron UKRinUNOG" label="450.000 Europeans EmmanuelMacron UKRinUNOG" />
+      <node id="Ukraine/Russia" label="Ukraine/Russia" />
+      <node id="America" label="America" />
+      <node id="Ukrainian Photojournalist's War Diary" label="Ukrainian Photojournalist's War Diary" />
+      <node id="Afghanistan" label="Afghanistan" />
+    </nodes>
+    <edges>
+      <edge source="As many as 15,000 Russian troops" target="Ukraine" id="0" weight="1.0" />
+      <edge source="As many as 15,000 Russian troops" target="NATO" id="1" weight="1.0" />
+      <edge source="As many as 15,000 Russian troops" target="Carlson" id="2" weight="1.0" />
+      <edge source="Ukraine" target="NATO" id="3" weight="1.0" />
+      <edge source="Ukraine" target="Carlson" id="4" weight="1.0" />
+      <edge source="Ukraine" target="Russian priest" id="5" weight="1.0" />
+      <edge source="Ukraine" target="Ukrainian Nazis" id="6" weight="1.0" />
+      <edge source="Ukraine" target="American multinational corporations" id="7" weight="1.0" />
+      <edge source="Ukraine" target="Moscow" id="8" weight="1.0" />
+      <edge source="Ukraine" target="Nikolaev Regional State Administration Kim" id="9" weight="1.0" />
+      <edge source="Ukraine" target="UkraineWar Russia" id="10" weight="1.0" />
+      <edge source="Ukraine" target="EU" id="11" weight="1.0" />
+      <edge source="Ukraine" target="US Army veteran" id="12" weight="1.0" />
+      <edge source="Ukraine" target="'punchable' Tucker Carlson" id="13" weight="1.0" />
+      <edge source="Ukraine" target="Yahoo News" id="14" weight="1.0" />
+      <edge source="Ukraine" target="Canadians" id="15" weight="1.0" />
+      <edge source="Ukraine" target="Marsha Blackburn" id="16" weight="1.0" />
+      <edge source="Ukraine" target="Putin" id="17" weight="1.0" />
+      <edge source="Ukraine" target="russia" id="18" weight="1.0" />
+      <edge source="Ukraine" target="Putin's orders" id="19" weight="1.0" />
+      <edge source="Ukraine" target="Ukrainians" id="20" weight="1.0" />
+      <edge source="Ukraine" target="450.000 Europeans EmmanuelMacron UKRinUNOG" id="21" weight="1.0" />
+      <edge source="Ukraine" target="Russia" id="22" weight="1.0" />
+      <edge source="Ukraine" target="Afghanistan" id="23" weight="1.0" />
+      <edge source="NATO" target="Carlson" id="24" weight="1.0" />
+      <edge source="Putin" target="Russian people" id="25" weight="1.0" />
+      <edge source="Putin" target="Russia" id="26" weight="1.0" />
+      <edge source="Putin" target="not all Russians" id="27" weight="1.0" />
+      <edge source="Putin" target="Fiona Hill" id="28" weight="1.0" />
+      <edge source="Putin" target="Putin's the table" id="29" weight="1.0" />
+      <edge source="Putin" target="Marsha Blackburn" id="30" weight="1.0" />
+      <edge source="Putin" target="Bidenomics" id="31" weight="1.0" />
+      <edge source="elite Ukrainian drone unit" target="Russian tanks" id="32" weight="1.0" />
+      <edge source="STEELWORKS OTH1" target="DJ JETLAGGED" id="33" weight="1.0" />
+      <edge source="STEELWORKS OTH1" target="Red Cross' Ukraine Crisis Appeal" id="34" weight="1.0" />
+      <edge source="DJ JETLAGGED" target="Red Cross' Ukraine Crisis Appeal" id="35" weight="1.0" />
+      <edge source="WSJ News Exclusive" target="Emirati Leaders" id="36" weight="1.0" />
+      <edge source="WSJ News Exclusive" target="Biden" id="37" weight="1.0" />
+      <edge source="WSJ News Exclusive" target="Ukraine Crisis" id="38" weight="1.0" />
+      <edge source="Emirati Leaders" target="Biden" id="39" weight="1.0" />
+      <edge source="Emirati Leaders" target="Ukraine Crisis" id="40" weight="1.0" />
+      <edge source="Biden" target="Ukraine Crisis" id="41" weight="1.0" />
+      <edge source="Russia's foreign minister" target="China" id="42" weight="1.0" />
+      <edge source="China" target="Russia" id="43" weight="1.0" />
+      <edge source="China" target="Trudeau" id="44" weight="1.0" />
+      <edge source="China" target="G20" id="45" weight="1.0" />
+      <edge source="China" target="Russia's seat" id="46" weight="1.0" />
+      <edge source="China" target="CBC News" id="47" weight="1.0" />
+      <edge source="Detained American basketball player Brittney Griner" target="US Embassy official" id="48" weight="1.0" />
+      <edge source="Detained American basketball player Brittney Griner" target="Russia" id="49" weight="1.0" />
+      <edge source="Detained American basketball player Brittney Griner" target="State Department Spokesman Ned Price" id="50" weight="1.0" />
+      <edge source="US Embassy official" target="Russia" id="51" weight="1.0" />
+      <edge source="US Embassy official" target="State Department Spokesman Ned Price" id="52" weight="1.0" />
+      <edge source="Russia" target="State Department Spokesman Ned Price" id="53" weight="1.0" />
+      <edge source="Russia" target="Russian people" id="54" weight="1.0" />
+      <edge source="Russia" target="not all Russians" id="55" weight="1.0" />
+      <edge source="Russia" target="Anastasiades" id="56" weight="1.0" />
+      <edge source="Russia" target="Turkey" id="57" weight="1.0" />
+      <edge source="Russia" target="Sweden" id="58" weight="1.0" />
+      <edge source="Russia" target="Swedish media" id="59" weight="1.0" />
+      <edge source="Russia" target="Trudeau" id="60" weight="1.0" />
+      <edge source="Russia" target="G20" id="61" weight="1.0" />
+      <edge source="Russia" target="Russia's seat" id="62" weight="1.0" />
+      <edge source="Russia" target="CBC News" id="63" weight="1.0" />
+      <edge source="Russia" target="Apple" id="64" weight="1.0" />
+      <edge source="Russia" target="Apple Pay" id="65" weight="1.0" />
+      <edge source="Russia" target="ZDNet Ukraine UkraineRussiaWar UkraineRussia" id="66" weight="1.0" />
+      <edge source="Russia" target="Samsung" id="67" weight="1.0" />
+      <edge source="Russia" target="Russia-Ukraine conflict" id="68" weight="1.0" />
+      <edge source="Russia" target="VPN" id="69" weight="1.0" />
+      <edge source="Russia" target="Afghanistan" id="70" weight="1.0" />
+      <edge source="Russian priest" target="Ukrainian Nazis" id="71" weight="1.0" />
+      <edge source="Russian priest" target="American multinational corporations" id="72" weight="1.0" />
+      <edge source="Ukrainian Nazis" target="American multinational corporations" id="73" weight="1.0" />
+      <edge source="Russian people" target="not all Russians" id="74" weight="1.0" />
+      <edge source="Montana" target="Ukrainian refugees" id="75" weight="1.0" />
+      <edge source="Nikolaev Regional State Administration Kim" target="UkraineWar Russia" id="76" weight="1.0" />
+      <edge source=" NATO allies" target="Ukraine's demand" id="77" weight="1.0" />
+      <edge source=" NATO allies" target="broader, even more brutal European war" id="78" weight="1.0" />
+      <edge source=" NATO allies" target="Russia's assault" id="79" weight="1.0" />
+      <edge source="Ukraine's demand" target="broader, even more brutal European war" id="80" weight="1.0" />
+      <edge source="Ukraine's demand" target="Russia's assault" id="81" weight="1.0" />
+      <edge source="broader, even more brutal European war" target="Russia's assault" id="82" weight="1.0" />
+      <edge source="Anastasiades" target="Turkey" id="83" weight="1.0" />
+      <edge source="Sweden" target="Swedish media" id="84" weight="1.0" />
+      <edge source="Trudeau" target="G20" id="85" weight="1.0" />
+      <edge source="Trudeau" target="Russia's seat" id="86" weight="1.0" />
+      <edge source="Trudeau" target="CBC News" id="87" weight="1.0" />
+      <edge source="G20" target="Russia's seat" id="88" weight="1.0" />
+      <edge source="G20" target="CBC News" id="89" weight="1.0" />
+      <edge source="Russia's seat" target="CBC News" id="90" weight="1.0" />
+      <edge source="Putin's invasion" target="European Left" id="91" weight="1.0" />
+      <edge source="Nadia" target="her beloved city Mariupol" id="92" weight="1.0" />
+      <edge source="EU" target="Putin's orders" id="93" weight="1.0" />
+      <edge source="EU" target="Ukrainians" id="94" weight="1.0" />
+      <edge source="EU" target="450.000 Europeans EmmanuelMacron UKRinUNOG" id="95" weight="1.0" />
+      <edge source="Chernihiv" target="Russian soldiers" id="96" weight="1.0" />
+      <edge source="US Army veteran" target="'punchable' Tucker Carlson" id="97" weight="1.0" />
+      <edge source="Russian state TV host" target="Donald Trump" id="98" weight="1.0" />
+      <edge source="Russian state TV host" target="US President" id="99" weight="1.0" />
+      <edge source="Donald Trump" target="US President" id="100" weight="1.0" />
+      <edge source="Apple" target="Apple Pay" id="101" weight="1.0" />
+      <edge source="Apple" target="ZDNet Ukraine UkraineRussiaWar UkraineRussia" id="102" weight="1.0" />
+      <edge source="Apple Pay" target="ZDNet Ukraine UkraineRussiaWar UkraineRussia" id="103" weight="1.0" />
+      <edge source="Samsung" target="Russia-Ukraine conflict" id="104" weight="1.0" />
+      <edge source="Yahoo News" target="Canadians" id="105" weight="1.0" />
+      <edge source="Mariupol" target="Russian hands" id="106" weight="1.0" />
+      <edge source="Russian occupiers" target="Air Force Command" id="107" weight="1.0" />
+      <edge source="Russian occupiers" target="Vinnytsia" id="108" weight="1.0" />
+      <edge source="Russian occupiers" target="Russians" id="109" weight="1.0" />
+      <edge source="Air Force Command" target="Vinnytsia" id="110" weight="1.0" />
+      <edge source="Air Force Command" target="Russians" id="111" weight="1.0" />
+      <edge source="Vinnytsia" target="Russians" id="112" weight="1.0" />
+      <edge source="US" target="RUSSIAN OIL" id="113" weight="1.0" />
+      <edge source="US" target=", Joy Reid" id="114" weight="1.0" />
+      <edge source="US" target="(MSNBC" id="115" weight="1.0" />
+      <edge source="US" target="Nikole Hannah-Jones" id="116" weight="1.0" />
+      <edge source="US" target="(1619 BS) Ukraine war" id="117" weight="1.0" />
+      <edge source="US" target="Ilhan Omar" id="118" weight="1.0" />
+      <edge source="US" target="(AOC Goon SQUAD" id="119" weight="1.0" />
+      <edge source="US" target="Ukraine War" id="120" weight="1.0" />
+      <edge source="FCC" target="Russian anti-virus firm Kaspersky" id="121" weight="1.0" />
+      <edge source="FCC" target="U.S. national security" id="122" weight="1.0" />
+      <edge source="Russian anti-virus firm Kaspersky" target="U.S. national security" id="123" weight="1.0" />
+      <edge source=", Joy Reid" target="(MSNBC" id="124" weight="1.0" />
+      <edge source=", Joy Reid" target="Nikole Hannah-Jones" id="125" weight="1.0" />
+      <edge source=", Joy Reid" target="(1619 BS) Ukraine war" id="126" weight="1.0" />
+      <edge source=", Joy Reid" target="Ilhan Omar" id="127" weight="1.0" />
+      <edge source=", Joy Reid" target="(AOC Goon SQUAD" id="128" weight="1.0" />
+      <edge source=", Joy Reid" target="Ukraine War" id="129" weight="1.0" />
+      <edge source="(MSNBC" target="Nikole Hannah-Jones" id="130" weight="1.0" />
+      <edge source="(MSNBC" target="(1619 BS) Ukraine war" id="131" weight="1.0" />
+      <edge source="(MSNBC" target="Ilhan Omar" id="132" weight="1.0" />
+      <edge source="(MSNBC" target="(AOC Goon SQUAD" id="133" weight="1.0" />
+      <edge source="(MSNBC" target="Ukraine War" id="134" weight="1.0" />
+      <edge source="Nikole Hannah-Jones" target="(1619 BS) Ukraine war" id="135" weight="1.0" />
+      <edge source="Nikole Hannah-Jones" target="Ilhan Omar" id="136" weight="1.0" />
+      <edge source="Nikole Hannah-Jones" target="(AOC Goon SQUAD" id="137" weight="1.0" />
+      <edge source="Nikole Hannah-Jones" target="Ukraine War" id="138" weight="1.0" />
+      <edge source="(1619 BS) Ukraine war" target="Ilhan Omar" id="139" weight="1.0" />
+      <edge source="(1619 BS) Ukraine war" target="(AOC Goon SQUAD" id="140" weight="1.0" />
+      <edge source="(1619 BS) Ukraine war" target="Ukraine War" id="141" weight="1.0" />
+      <edge source="Ilhan Omar" target="(AOC Goon SQUAD" id="142" weight="1.0" />
+      <edge source="Ilhan Omar" target="Ukraine War" id="143" weight="1.0" />
+      <edge source="(AOC Goon SQUAD" target="Ukraine War" id="144" weight="1.0" />
+      <edge source="Russian aggression" target="AdolfPutin business" id="145" weight="1.0" />
+      <edge source="Russia-Ukraine War Updates" target="Putin's invasion - India" id="146" weight="1.0" />
+      <edge source="Russian former F1 driver Nikita Mazepin" target="father Dmitry" id="147" weight="1.0" />
+      <edge source="Russian former F1 driver Nikita Mazepin" target="EU sanctions list" id="148" weight="1.0" />
+      <edge source="father Dmitry" target="EU sanctions list" id="149" weight="1.0" />
+      <edge source="Xi" target="Kim" id="150" weight="1.0" />
+      <edge source="Xi" target="GOP" id="151" weight="1.0" />
+      <edge source="Kim" target="GOP" id="152" weight="1.0" />
+      <edge source="Putin's orders" target="Ukrainians" id="153" weight="1.0" />
+      <edge source="Putin's orders" target="450.000 Europeans EmmanuelMacron UKRinUNOG" id="154" weight="1.0" />
+      <edge source="Ukrainians" target="450.000 Europeans EmmanuelMacron UKRinUNOG" id="155" weight="1.0" />
+      <edge source="Ukraine/Russia" target="America" id="156" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance" version="1.2">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>10/05/2022</lastmodified>
+    </meta>
+    <nodes>
+      <node id="US" label="US" />
+      <node id="Russia" label="Russia" />
+      <node id="Russia-Ukraine conflict" label="Russia-Ukraine conflict" />
+      <node id="Biden" label="Biden" />
+      <node id="Ukraine" label="Ukraine" />
+      <node id="Afghanistan" label="Afghanistan" />
+      <node id="Iran" label="Iran" />
+      <node id="Russia-Ukraine crisis" label="Russia-Ukraine crisis" />
+      <node id="Putin" label="Putin" />
+      <node id="Ukraine conflict" label="Ukraine conflict" />
+      <node id="Kyiv" label="Kyiv" />
+      <node id="Bulgaria" label="Bulgaria" />
+      <node id="Zelensky" label="Zelensky" />
+      <node id="Russia's invasion" label="Russia's invasion" />
+      <node id="Moscow" label="Moscow" />
+      <node id="Zelenskyy" label="Zelenskyy" />
+      <node id="China" label="China" />
+      <node id="Ireland" label="Ireland" />
+      <node id="Kremlin" label="Kremlin" />
+      <node id="United States" label="United States" />
+      <node id="America" label="America" />
+      <node id="Europe" label="Europe" />
+      <node id="Israel" label="Israel" />
+      <node id="Russian invasion" label="Russian invasion" />
+      <node id="EU" label="EU" />
+      <node id="Ukraine crisis" label="Ukraine crisis" />
+      <node id="Germany" label="Germany" />
+      <node id="France" label="France" />
+      <node id="USA" label="USA" />
+      <node id="Syria" label="Syria" />
+      <node id="Finland" label="Finland" />
+      <node id="India" label="India" />
+      <node id="U.S." label="U.S." />
+      <node id="Ukraine-Russia conflict" label="Ukraine-Russia conflict" />
+      <node id="Russia-Ukraine war" label="Russia-Ukraine war" />
+      <node id="Russians" label="Russians" />
+      <node id="Vermaut" label="Vermaut" />
+      <node id="Italy" label="Italy" />
+      <node id="UN" label="UN" />
+      <node id="Ukrainians" label="Ukrainians" />
+      <node id="United Kingdom" label="United Kingdom" />
+      <node id="NATO" label="NATO" />
+      <node id="West" label="West" />
+      <node id="Belarus" label="Belarus" />
+      <node id="UK" label="UK" />
+      <node id="Latvia" label="Latvia" />
+      <node id="@SputnikInt's account" label="@SputnikInt's account" />
+      <node id="Portugal" label="Portugal" />
+      <node id="Sweden" label="Sweden" />
+      <node id="Slovenia" label="Slovenia" />
+      <node id="Czech Republic" label="Czech Republic" />
+      <node id="Poland" label="Poland" />
+      <node id="Slovakia" label="Slovakia" />
+      <node id="Hungary" label="Hungary" />
+      <node id="Malta" label="Malta" />
+      <node id="Greece" label="Greece" />
+      <node id="Romania" label="Romania" />
+      <node id="Netherlands" label="Netherlands" />
+      <node id="Austria" label="Austria" />
+      <node id="Luxembourg" label="Luxembourg" />
+      <node id="Denmark" label="Denmark" />
+      <node id="Lithuania" label="Lithuania" />
+      <node id="Croatia" label="Croatia" />
+      <node id="Estonia" label="Estonia" />
+      <node id="Cyprus" label="Cyprus" />
+      <node id="Spain" label="Spain" />
+      <node id="Belgium" label="Belgium" />
+      <node id="@RT_com's account" label="@RT_com's account" />
+    </nodes>
+    <edges>
+      <edge source="US" target="Russia" id="0" weight="247.0" />
+      <edge source="US" target="Russia-Ukraine conflict" id="1" weight="10.0" />
+      <edge source="US" target="Biden" id="2" weight="23.0" />
+      <edge source="US" target="Ukraine" id="3" weight="206.0" />
+      <edge source="US" target="Afghanistan" id="4" weight="1.0" />
+      <edge source="US" target="Iran" id="5" weight="2.0" />
+      <edge source="US" target="Russia-Ukraine crisis" id="6" weight="13.0" />
+      <edge source="US" target="Putin" id="7" weight="24.0" />
+      <edge source="US" target="Ukraine conflict" id="8" weight="13.0" />
+      <edge source="US" target="Kyiv" id="9" weight="3.0" />
+      <edge source="US" target="Zelensky" id="10" weight="1.0" />
+      <edge source="US" target="Russia's invasion" id="11" weight="3.0" />
+      <edge source="US" target="Moscow" id="12" weight="8.0" />
+      <edge source="US" target="Zelenskyy" id="13" weight="2.0" />
+      <edge source="US" target="China" id="14" weight="43.0" />
+      <edge source="US" target="Kremlin" id="15" weight="1.0" />
+      <edge source="US" target="United States" id="16" weight="2.0" />
+      <edge source="US" target="America" id="17" weight="2.0" />
+      <edge source="US" target="Europe" id="18" weight="28.0" />
+      <edge source="US" target="Israel" id="19" weight="2.0" />
+      <edge source="US" target="Russian invasion" id="20" weight="6.0" />
+      <edge source="US" target="EU" id="21" weight="8.0" />
+      <edge source="US" target="Ukraine crisis" id="22" weight="29.0" />
+      <edge source="US" target="Germany" id="23" weight="2.0" />
+      <edge source="US" target="USA" id="24" weight="3.0" />
+      <edge source="US" target="Syria" id="25" weight="3.0" />
+      <edge source="US" target="Finland" id="26" weight="2.0" />
+      <edge source="US" target="India" id="27" weight="15.0" />
+      <edge source="US" target="U.S." id="28" weight="2.0" />
+      <edge source="US" target="Ukraine-Russia conflict" id="29" weight="1.0" />
+      <edge source="US" target="Russia-Ukraine war" id="30" weight="3.0" />
+      <edge source="US" target="Russians" id="31" weight="2.0" />
+      <edge source="US" target="Vermaut" id="32" weight="3.0" />
+      <edge source="US" target="UN" id="33" weight="9.0" />
+      <edge source="US" target="Ukrainians" id="34" weight="1.0" />
+      <edge source="US" target="NATO" id="35" weight="24.0" />
+      <edge source="US" target="West" id="36" weight="3.0" />
+      <edge source="US" target="Belarus" id="37" weight="1.0" />
+      <edge source="US" target="UK" id="38" weight="10.0" />
+      <edge source="US" target="Poland" id="39" weight="12.0" />
+      <edge source="US" target="Hungary" id="40" weight="1.0" />
+      <edge source="US" target="Romania" id="41" weight="9.0" />
+      <edge source="US" target="Estonia" id="42" weight="1.0" />
+      <edge source="Russia" target="Russia-Ukraine conflict" id="43" weight="29.0" />
+      <edge source="Russia" target="Biden" id="44" weight="152.0" />
+      <edge source="Russia" target="Ukraine" id="45" weight="2255.0" />
+      <edge source="Russia" target="Afghanistan" id="46" weight="10.0" />
+      <edge source="Russia" target="Iran" id="47" weight="6.0" />
+      <edge source="Russia" target="Russia-Ukraine crisis" id="48" weight="26.0" />
+      <edge source="Russia" target="Putin" id="49" weight="246.0" />
+      <edge source="Russia" target="Ukraine conflict" id="50" weight="141.0" />
+      <edge source="Russia" target="Kyiv" id="51" weight="55.0" />
+      <edge source="Russia" target="Bulgaria" id="52" weight="26.0" />
+      <edge source="Russia" target="Zelensky" id="53" weight="27.0" />
+      <edge source="Russia" target="Russia's invasion" id="54" weight="10.0" />
+      <edge source="Russia" target="Moscow" id="55" weight="62.0" />
+      <edge source="Russia" target="Zelenskyy" id="56" weight="22.0" />
+      <edge source="Russia" target="China" id="57" weight="213.0" />
+      <edge source="Russia" target="Ireland" id="58" weight="7.0" />
+      <edge source="Russia" target="Kremlin" id="59" weight="15.0" />
+      <edge source="Russia" target="United States" id="60" weight="61.0" />
+      <edge source="Russia" target="America" id="61" weight="28.0" />
+      <edge source="Russia" target="Europe" id="62" weight="116.0" />
+      <edge source="Russia" target="Israel" id="63" weight="41.0" />
+      <edge source="Russia" target="Russian invasion" id="64" weight="16.0" />
+      <edge source="Russia" target="EU" id="65" weight="46.0" />
+      <edge source="Russia" target="Ukraine crisis" id="66" weight="227.0" />
+      <edge source="Russia" target="Germany" id="67" weight="47.0" />
+      <edge source="Russia" target="France" id="68" weight="14.0" />
+      <edge source="Russia" target="USA" id="69" weight="48.0" />
+      <edge source="Russia" target="Syria" id="70" weight="20.0" />
+      <edge source="Russia" target="Finland" id="71" weight="9.0" />
+      <edge source="Russia" target="India" id="72" weight="54.0" />
+      <edge source="Russia" target="U.S." id="73" weight="76.0" />
+      <edge source="Russia" target="Ukraine-Russia conflict" id="74" weight="8.0" />
+      <edge source="Russia" target="Russia-Ukraine war" id="75" weight="4.0" />
+      <edge source="Russia" target="Russians" id="76" weight="14.0" />
+      <edge source="Russia" target="Vermaut" id="77" weight="19.0" />
+      <edge source="Russia" target="UN" id="78" weight="61.0" />
+      <edge source="Russia" target="Ukrainians" id="79" weight="33.0" />
+      <edge source="Russia" target="NATO" id="80" weight="195.0" />
+      <edge source="Russia" target="West" id="81" weight="76.0" />
+      <edge source="Russia" target="Belarus" id="82" weight="43.0" />
+      <edge source="Russia" target="UK" id="83" weight="38.0" />
+      <edge source="Russia" target="Latvia" id="84" weight="2.0" />
+      <edge source="Russia" target="Sweden" id="85" weight="14.0" />
+      <edge source="Russia" target="Slovenia" id="86" weight="1.0" />
+      <edge source="Russia" target="Czech Republic" id="87" weight="1.0" />
+      <edge source="Russia" target="Poland" id="88" weight="51.0" />
+      <edge source="Russia" target="Hungary" id="89" weight="1.0" />
+      <edge source="Russia" target="Romania" id="90" weight="10.0" />
+      <edge source="Russia" target="Estonia" id="91" weight="2.0" />
+      <edge source="Russia-Ukraine conflict" target="Biden" id="92" weight="9.0" />
+      <edge source="Russia-Ukraine conflict" target="Ukraine" id="93" weight="49.0" />
+      <edge source="Russia-Ukraine conflict" target="Iran" id="94" weight="3.0" />
+      <edge source="Russia-Ukraine conflict" target="Russia-Ukraine crisis" id="95" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="Putin" id="96" weight="26.0" />
+      <edge source="Russia-Ukraine conflict" target="Kyiv" id="97" weight="8.0" />
+      <edge source="Russia-Ukraine conflict" target="Russia's invasion" id="98" weight="3.0" />
+      <edge source="Russia-Ukraine conflict" target="Moscow" id="99" weight="2.0" />
+      <edge source="Russia-Ukraine conflict" target="Zelenskyy" id="100" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="China" id="101" weight="18.0" />
+      <edge source="Russia-Ukraine conflict" target="Kremlin" id="102" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="United States" id="103" weight="2.0" />
+      <edge source="Russia-Ukraine conflict" target="America" id="104" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="Europe" id="105" weight="13.0" />
+      <edge source="Russia-Ukraine conflict" target="Israel" id="106" weight="3.0" />
+      <edge source="Russia-Ukraine conflict" target="Russian invasion" id="107" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="EU" id="108" weight="3.0" />
+      <edge source="Russia-Ukraine conflict" target="Germany" id="109" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="France" id="110" weight="2.0" />
+      <edge source="Russia-Ukraine conflict" target="USA" id="111" weight="3.0" />
+      <edge source="Russia-Ukraine conflict" target="Syria" id="112" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="India" id="113" weight="12.0" />
+      <edge source="Russia-Ukraine conflict" target="U.S." id="114" weight="7.0" />
+      <edge source="Russia-Ukraine conflict" target="Russians" id="115" weight="2.0" />
+      <edge source="Russia-Ukraine conflict" target="Vermaut" id="116" weight="6.0" />
+      <edge source="Russia-Ukraine conflict" target="UN" id="117" weight="4.0" />
+      <edge source="Russia-Ukraine conflict" target="Ukrainians" id="118" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="United Kingdom" id="119" weight="1.0" />
+      <edge source="Russia-Ukraine conflict" target="NATO" id="120" weight="10.0" />
+      <edge source="Russia-Ukraine conflict" target="West" id="121" weight="3.0" />
+      <edge source="Russia-Ukraine conflict" target="Belarus" id="122" weight="2.0" />
+      <edge source="Russia-Ukraine conflict" target="UK" id="123" weight="1.0" />
+      <edge source="Biden" target="Ukraine" id="124" weight="157.0" />
+      <edge source="Biden" target="Afghanistan" id="125" weight="1.0" />
+      <edge source="Biden" target="Russia-Ukraine crisis" id="126" weight="14.0" />
+      <edge source="Biden" target="Putin" id="127" weight="78.0" />
+      <edge source="Biden" target="Ukraine conflict" id="128" weight="15.0" />
+      <edge source="Biden" target="Kyiv" id="129" weight="10.0" />
+      <edge source="Biden" target="Russia's invasion" id="130" weight="2.0" />
+      <edge source="Biden" target="Moscow" id="131" weight="6.0" />
+      <edge source="Biden" target="Zelenskyy" id="132" weight="7.0" />
+      <edge source="Biden" target="China" id="133" weight="14.0" />
+      <edge source="Biden" target="Kremlin" id="134" weight="3.0" />
+      <edge source="Biden" target="United States" id="135" weight="3.0" />
+      <edge source="Biden" target="America" id="136" weight="4.0" />
+      <edge source="Biden" target="Europe" id="137" weight="6.0" />
+      <edge source="Biden" target="Ukraine crisis" id="138" weight="30.0" />
+      <edge source="Biden" target="Germany" id="139" weight="2.0" />
+      <edge source="Biden" target="USA" id="140" weight="5.0" />
+      <edge source="Biden" target="India" id="141" weight="1.0" />
+      <edge source="Biden" target="U.S." id="142" weight="6.0" />
+      <edge source="Biden" target="Ukraine-Russia conflict" id="143" weight="5.0" />
+      <edge source="Biden" target="Russians" id="144" weight="1.0" />
+      <edge source="Biden" target="Vermaut" id="145" weight="6.0" />
+      <edge source="Biden" target="Ukrainians" id="146" weight="3.0" />
+      <edge source="Biden" target="NATO" id="147" weight="18.0" />
+      <edge source="Biden" target="West" id="148" weight="3.0" />
+      <edge source="Biden" target="UK" id="149" weight="2.0" />
+      <edge source="Biden" target="Poland" id="150" weight="3.0" />
+      <edge source="Ukraine" target="Afghanistan" id="151" weight="13.0" />
+      <edge source="Ukraine" target="Iran" id="152" weight="7.0" />
+      <edge source="Ukraine" target="Russia-Ukraine crisis" id="153" weight="33.0" />
+      <edge source="Ukraine" target="Putin" id="154" weight="323.0" />
+      <edge source="Ukraine" target="Ukraine conflict" id="155" weight="28.0" />
+      <edge source="Ukraine" target="Kyiv" id="156" weight="62.0" />
+      <edge source="Ukraine" target="Bulgaria" id="157" weight="14.0" />
+      <edge source="Ukraine" target="Zelensky" id="158" weight="37.0" />
+      <edge source="Ukraine" target="Russia's invasion" id="159" weight="245.0" />
+      <edge source="Ukraine" target="Moscow" id="160" weight="79.0" />
+      <edge source="Ukraine" target="Zelenskyy" id="161" weight="21.0" />
+      <edge source="Ukraine" target="China" id="162" weight="134.0" />
+      <edge source="Ukraine" target="Ireland" id="163" weight="9.0" />
+      <edge source="Ukraine" target="Kremlin" id="164" weight="24.0" />
+      <edge source="Ukraine" target="United States" id="165" weight="55.0" />
+      <edge source="Ukraine" target="America" id="166" weight="25.0" />
+      <edge source="Ukraine" target="Europe" id="167" weight="99.0" />
+      <edge source="Ukraine" target="Israel" id="168" weight="40.0" />
+      <edge source="Ukraine" target="Russian invasion" id="169" weight="46.0" />
+      <edge source="Ukraine" target="EU" id="170" weight="36.0" />
+      <edge source="Ukraine" target="Ukraine crisis" id="171" weight="51.0" />
+      <edge source="Ukraine" target="Germany" id="172" weight="36.0" />
+      <edge source="Ukraine" target="France" id="173" weight="10.0" />
+      <edge source="Ukraine" target="USA" id="174" weight="32.0" />
+      <edge source="Ukraine" target="Syria" id="175" weight="23.0" />
+      <edge source="Ukraine" target="Finland" id="176" weight="8.0" />
+      <edge source="Ukraine" target="India" id="177" weight="45.0" />
+      <edge source="Ukraine" target="U.S." id="178" weight="60.0" />
+      <edge source="Ukraine" target="Ukraine-Russia conflict" id="179" weight="9.0" />
+      <edge source="Ukraine" target="Russia-Ukraine war" id="180" weight="7.0" />
+      <edge source="Ukraine" target="Russians" id="181" weight="17.0" />
+      <edge source="Ukraine" target="Vermaut" id="182" weight="24.0" />
+      <edge source="Ukraine" target="Italy" id="183" weight="2.0" />
+      <edge source="Ukraine" target="UN" id="184" weight="55.0" />
+      <edge source="Ukraine" target="Ukrainians" id="185" weight="30.0" />
+      <edge source="Ukraine" target="United Kingdom" id="186" weight="2.0" />
+      <edge source="Ukraine" target="NATO" id="187" weight="215.0" />
+      <edge source="Ukraine" target="West" id="188" weight="79.0" />
+      <edge source="Ukraine" target="Belarus" id="189" weight="37.0" />
+      <edge source="Ukraine" target="UK" id="190" weight="33.0" />
+      <edge source="Ukraine" target="Latvia" id="191" weight="2.0" />
+      <edge source="Ukraine" target="Portugal" id="192" weight="2.0" />
+      <edge source="Ukraine" target="Sweden" id="193" weight="14.0" />
+      <edge source="Ukraine" target="Slovenia" id="194" weight="2.0" />
+      <edge source="Ukraine" target="Czech Republic" id="195" weight="2.0" />
+      <edge source="Ukraine" target="Poland" id="196" weight="40.0" />
+      <edge source="Ukraine" target="Hungary" id="197" weight="1.0" />
+      <edge source="Ukraine" target="Romania" id="198" weight="12.0" />
+      <edge source="Ukraine" target="Austria" id="199" weight="3.0" />
+      <edge source="Ukraine" target="Lithuania" id="200" weight="1.0" />
+      <edge source="Ukraine" target="Estonia" id="201" weight="2.0" />
+      <edge source="Afghanistan" target="Iran" id="202" weight="1.0" />
+      <edge source="Afghanistan" target="Putin" id="203" weight="2.0" />
+      <edge source="Afghanistan" target="Russia's invasion" id="204" weight="1.0" />
+      <edge source="Afghanistan" target="China" id="205" weight="3.0" />
+      <edge source="Afghanistan" target="United States" id="206" weight="1.0" />
+      <edge source="Afghanistan" target="America" id="207" weight="2.0" />
+      <edge source="Afghanistan" target="Russian invasion" id="208" weight="1.0" />
+      <edge source="Afghanistan" target="Ukraine crisis" id="209" weight="1.0" />
+      <edge source="Afghanistan" target="Germany" id="210" weight="1.0" />
+      <edge source="Afghanistan" target="Syria" id="211" weight="4.0" />
+      <edge source="Afghanistan" target="India" id="212" weight="4.0" />
+      <edge source="Afghanistan" target="Russia-Ukraine war" id="213" weight="1.0" />
+      <edge source="Afghanistan" target="UN" id="214" weight="3.0" />
+      <edge source="Afghanistan" target="NATO" id="215" weight="1.0" />
+      <edge source="Iran" target="Putin" id="216" weight="1.0" />
+      <edge source="Iran" target="Ukraine conflict" id="217" weight="2.0" />
+      <edge source="Iran" target="Russia's invasion" id="218" weight="3.0" />
+      <edge source="Iran" target="Moscow" id="219" weight="1.0" />
+      <edge source="Iran" target="China" id="220" weight="2.0" />
+      <edge source="Iran" target="United States" id="221" weight="1.0" />
+      <edge source="Iran" target="Europe" id="222" weight="2.0" />
+      <edge source="Iran" target="Israel" id="223" weight="5.0" />
+      <edge source="Iran" target="Ukraine crisis" id="224" weight="1.0" />
+      <edge source="Iran" target="Syria" id="225" weight="3.0" />
+      <edge source="Iran" target="India" id="226" weight="1.0" />
+      <edge source="Iran" target="U.S." id="227" weight="1.0" />
+      <edge source="Iran" target="Russia-Ukraine war" id="228" weight="1.0" />
+      <edge source="Iran" target="NATO" id="229" weight="1.0" />
+      <edge source="Iran" target="Belarus" id="230" weight="1.0" />
+      <edge source="Russia-Ukraine crisis" target="Putin" id="231" weight="23.0" />
+      <edge source="Russia-Ukraine crisis" target="Kyiv" id="232" weight="5.0" />
+      <edge source="Russia-Ukraine crisis" target="Zelensky" id="233" weight="3.0" />
+      <edge source="Russia-Ukraine crisis" target="Moscow" id="234" weight="4.0" />
+      <edge source="Russia-Ukraine crisis" target="China" id="235" weight="10.0" />
+      <edge source="Russia-Ukraine crisis" target="Kremlin" id="236" weight="1.0" />
+      <edge source="Russia-Ukraine crisis" target="America" id="237" weight="2.0" />
+      <edge source="Russia-Ukraine crisis" target="Europe" id="238" weight="2.0" />
+      <edge source="Russia-Ukraine crisis" target="Israel" id="239" weight="3.0" />
+      <edge source="Russia-Ukraine crisis" target="EU" id="240" weight="4.0" />
+      <edge source="Russia-Ukraine crisis" target="Ukraine crisis" id="241" weight="1.0" />
+      <edge source="Russia-Ukraine crisis" target="Germany" id="242" weight="2.0" />
+      <edge source="Russia-Ukraine crisis" target="USA" id="243" weight="3.0" />
+      <edge source="Russia-Ukraine crisis" target="India" id="244" weight="30.0" />
+      <edge source="Russia-Ukraine crisis" target="U.S." id="245" weight="3.0" />
+      <edge source="Russia-Ukraine crisis" target="Russians" id="246" weight="4.0" />
+      <edge source="Russia-Ukraine crisis" target="Vermaut" id="247" weight="1.0" />
+      <edge source="Russia-Ukraine crisis" target="Italy" id="248" weight="1.0" />
+      <edge source="Russia-Ukraine crisis" target="UN" id="249" weight="3.0" />
+      <edge source="Russia-Ukraine crisis" target="Ukrainians" id="250" weight="1.0" />
+      <edge source="Russia-Ukraine crisis" target="NATO" id="251" weight="4.0" />
+      <edge source="Russia-Ukraine crisis" target="West" id="252" weight="1.0" />
+      <edge source="Russia-Ukraine crisis" target="Belarus" id="253" weight="1.0" />
+      <edge source="Russia-Ukraine crisis" target="UK" id="254" weight="9.0" />
+      <edge source="Russia-Ukraine crisis" target="Poland" id="255" weight="15.0" />
+      <edge source="Russia-Ukraine crisis" target="Romania" id="256" weight="5.0" />
+      <edge source="Putin" target="Ukraine conflict" id="257" weight="28.0" />
+      <edge source="Putin" target="Kyiv" id="258" weight="24.0" />
+      <edge source="Putin" target="Zelensky" id="259" weight="16.0" />
+      <edge source="Putin" target="Russia's invasion" id="260" weight="3.0" />
+      <edge source="Putin" target="Moscow" id="261" weight="16.0" />
+      <edge source="Putin" target="Zelenskyy" id="262" weight="7.0" />
+      <edge source="Putin" target="China" id="263" weight="16.0" />
+      <edge source="Putin" target="Ireland" id="264" weight="1.0" />
+      <edge source="Putin" target="Kremlin" id="265" weight="4.0" />
+      <edge source="Putin" target="United States" id="266" weight="7.0" />
+      <edge source="Putin" target="America" id="267" weight="3.0" />
+      <edge source="Putin" target="Europe" id="268" weight="13.0" />
+      <edge source="Putin" target="Israel" id="269" weight="4.0" />
+      <edge source="Putin" target="Russian invasion" id="270" weight="2.0" />
+      <edge source="Putin" target="EU" id="271" weight="6.0" />
+      <edge source="Putin" target="Ukraine crisis" id="272" weight="29.0" />
+      <edge source="Putin" target="Germany" id="273" weight="6.0" />
+      <edge source="Putin" target="France" id="274" weight="8.0" />
+      <edge source="Putin" target="USA" id="275" weight="7.0" />
+      <edge source="Putin" target="Syria" id="276" weight="3.0" />
+      <edge source="Putin" target="Finland" id="277" weight="3.0" />
+      <edge source="Putin" target="India" id="278" weight="2.0" />
+      <edge source="Putin" target="U.S." id="279" weight="48.0" />
+      <edge source="Putin" target="Ukraine-Russia conflict" id="280" weight="5.0" />
+      <edge source="Putin" target="Russia-Ukraine war" id="281" weight="5.0" />
+      <edge source="Putin" target="Russians" id="282" weight="6.0" />
+      <edge source="Putin" target="Vermaut" id="283" weight="6.0" />
+      <edge source="Putin" target="Italy" id="284" weight="1.0" />
+      <edge source="Putin" target="UN" id="285" weight="2.0" />
+      <edge source="Putin" target="Ukrainians" id="286" weight="5.0" />
+      <edge source="Putin" target="NATO" id="287" weight="30.0" />
+      <edge source="Putin" target="West" id="288" weight="17.0" />
+      <edge source="Putin" target="Belarus" id="289" weight="2.0" />
+      <edge source="Putin" target="UK" id="290" weight="10.0" />
+      <edge source="Putin" target="Sweden" id="291" weight="2.0" />
+      <edge source="Putin" target="Poland" id="292" weight="3.0" />
+      <edge source="Putin" target="Austria" id="293" weight="1.0" />
+      <edge source="Ukraine conflict" target="Kyiv" id="294" weight="6.0" />
+      <edge source="Ukraine conflict" target="Zelensky" id="295" weight="1.0" />
+      <edge source="Ukraine conflict" target="Russia's invasion" id="296" weight="1.0" />
+      <edge source="Ukraine conflict" target="Moscow" id="297" weight="3.0" />
+      <edge source="Ukraine conflict" target="Zelenskyy" id="298" weight="3.0" />
+      <edge source="Ukraine conflict" target="China" id="299" weight="58.0" />
+      <edge source="Ukraine conflict" target="Kremlin" id="300" weight="2.0" />
+      <edge source="Ukraine conflict" target="Europe" id="301" weight="2.0" />
+      <edge source="Ukraine conflict" target="EU" id="302" weight="1.0" />
+      <edge source="Ukraine conflict" target="Ukraine crisis" id="303" weight="1.0" />
+      <edge source="Ukraine conflict" target="Germany" id="304" weight="1.0" />
+      <edge source="Ukraine conflict" target="France" id="305" weight="1.0" />
+      <edge source="Ukraine conflict" target="USA" id="306" weight="3.0" />
+      <edge source="Ukraine conflict" target="India" id="307" weight="5.0" />
+      <edge source="Ukraine conflict" target="U.S." id="308" weight="2.0" />
+      <edge source="Ukraine conflict" target="Ukraine-Russia conflict" id="309" weight="2.0" />
+      <edge source="Ukraine conflict" target="Russians" id="310" weight="4.0" />
+      <edge source="Ukraine conflict" target="Vermaut" id="311" weight="2.0" />
+      <edge source="Ukraine conflict" target="Ukrainians" id="312" weight="2.0" />
+      <edge source="Ukraine conflict" target="NATO" id="313" weight="15.0" />
+      <edge source="Ukraine conflict" target="West" id="314" weight="7.0" />
+      <edge source="Ukraine conflict" target="UK" id="315" weight="9.0" />
+      <edge source="Ukraine conflict" target="Sweden" id="316" weight="1.0" />
+      <edge source="Ukraine conflict" target="Poland" id="317" weight="10.0" />
+      <edge source="Ukraine conflict" target="Romania" id="318" weight="9.0" />
+      <edge source="Kyiv" target="Zelensky" id="319" weight="1.0" />
+      <edge source="Kyiv" target="Russia's invasion" id="320" weight="2.0" />
+      <edge source="Kyiv" target="Moscow" id="321" weight="7.0" />
+      <edge source="Kyiv" target="Zelenskyy" id="322" weight="3.0" />
+      <edge source="Kyiv" target="China" id="323" weight="7.0" />
+      <edge source="Kyiv" target="Kremlin" id="324" weight="2.0" />
+      <edge source="Kyiv" target="America" id="325" weight="1.0" />
+      <edge source="Kyiv" target="Europe" id="326" weight="1.0" />
+      <edge source="Kyiv" target="Israel" id="327" weight="1.0" />
+      <edge source="Kyiv" target="Russian invasion" id="328" weight="2.0" />
+      <edge source="Kyiv" target="EU" id="329" weight="1.0" />
+      <edge source="Kyiv" target="Ukraine crisis" id="330" weight="1.0" />
+      <edge source="Kyiv" target="Germany" id="331" weight="1.0" />
+      <edge source="Kyiv" target="France" id="332" weight="1.0" />
+      <edge source="Kyiv" target="Russia-Ukraine war" id="333" weight="2.0" />
+      <edge source="Kyiv" target="Russians" id="334" weight="1.0" />
+      <edge source="Kyiv" target="Vermaut" id="335" weight="4.0" />
+      <edge source="Kyiv" target="Italy" id="336" weight="1.0" />
+      <edge source="Kyiv" target="UN" id="337" weight="2.0" />
+      <edge source="Kyiv" target="Ukrainians" id="338" weight="1.0" />
+      <edge source="Kyiv" target="NATO" id="339" weight="4.0" />
+      <edge source="Kyiv" target="West" id="340" weight="4.0" />
+      <edge source="Kyiv" target="Belarus" id="341" weight="1.0" />
+      <edge source="Kyiv" target="UK" id="342" weight="1.0" />
+      <edge source="Kyiv" target="Sweden" id="343" weight="1.0" />
+      <edge source="Kyiv" target="Slovenia" id="344" weight="1.0" />
+      <edge source="Kyiv" target="Czech Republic" id="345" weight="1.0" />
+      <edge source="Kyiv" target="Poland" id="346" weight="2.0" />
+      <edge source="Bulgaria" target="Zelensky" id="347" weight="2.0" />
+      <edge source="Bulgaria" target="Russia's invasion" id="348" weight="1.0" />
+      <edge source="Bulgaria" target="Moscow" id="349" weight="2.0" />
+      <edge source="Bulgaria" target="Ireland" id="350" weight="5.0" />
+      <edge source="Bulgaria" target="Kremlin" id="351" weight="2.0" />
+      <edge source="Bulgaria" target="Europe" id="352" weight="8.0" />
+      <edge source="Bulgaria" target="Israel" id="353" weight="1.0" />
+      <edge source="Bulgaria" target="EU" id="354" weight="1.0" />
+      <edge source="Bulgaria" target="Germany" id="355" weight="5.0" />
+      <edge source="Bulgaria" target="France" id="356" weight="5.0" />
+      <edge source="Bulgaria" target="Finland" id="357" weight="5.0" />
+      <edge source="Bulgaria" target="Italy" id="358" weight="5.0" />
+      <edge source="Bulgaria" target="United Kingdom" id="359" weight="5.0" />
+      <edge source="Bulgaria" target="West" id="360" weight="2.0" />
+      <edge source="Bulgaria" target="Latvia" id="361" weight="5.0" />
+      <edge source="Bulgaria" target="@SputnikInt's account" id="362" weight="3.0" />
+      <edge source="Bulgaria" target="Portugal" id="363" weight="5.0" />
+      <edge source="Bulgaria" target="Sweden" id="364" weight="5.0" />
+      <edge source="Bulgaria" target="Slovenia" id="365" weight="5.0" />
+      <edge source="Bulgaria" target="Czech Republic" id="366" weight="5.0" />
+      <edge source="Bulgaria" target="Poland" id="367" weight="32.0" />
+      <edge source="Bulgaria" target="Slovakia" id="368" weight="5.0" />
+      <edge source="Bulgaria" target="Hungary" id="369" weight="5.0" />
+      <edge source="Bulgaria" target="Malta" id="370" weight="5.0" />
+      <edge source="Bulgaria" target="Greece" id="371" weight="5.0" />
+      <edge source="Bulgaria" target="Romania" id="372" weight="5.0" />
+      <edge source="Bulgaria" target="Netherlands" id="373" weight="5.0" />
+      <edge source="Bulgaria" target="Austria" id="374" weight="5.0" />
+      <edge source="Bulgaria" target="Luxembourg" id="375" weight="5.0" />
+      <edge source="Bulgaria" target="Denmark" id="376" weight="5.0" />
+      <edge source="Bulgaria" target="Lithuania" id="377" weight="5.0" />
+      <edge source="Bulgaria" target="Croatia" id="378" weight="5.0" />
+      <edge source="Bulgaria" target="Estonia" id="379" weight="5.0" />
+      <edge source="Bulgaria" target="Cyprus" id="380" weight="5.0" />
+      <edge source="Bulgaria" target="Spain" id="381" weight="5.0" />
+      <edge source="Bulgaria" target="Belgium" id="382" weight="5.0" />
+      <edge source="Bulgaria" target="@RT_com's account" id="383" weight="2.0" />
+      <edge source="Zelensky" target="Russia's invasion" id="384" weight="1.0" />
+      <edge source="Zelensky" target="Moscow" id="385" weight="5.0" />
+      <edge source="Zelensky" target="Zelenskyy" id="386" weight="1.0" />
+      <edge source="Zelensky" target="Kremlin" id="387" weight="1.0" />
+      <edge source="Zelensky" target="United States" id="388" weight="2.0" />
+      <edge source="Zelensky" target="Europe" id="389" weight="1.0" />
+      <edge source="Zelensky" target="Israel" id="390" weight="4.0" />
+      <edge source="Zelensky" target="EU" id="391" weight="2.0" />
+      <edge source="Zelensky" target="Ukraine crisis" id="392" weight="4.0" />
+      <edge source="Zelensky" target="Germany" id="393" weight="1.0" />
+      <edge source="Zelensky" target="USA" id="394" weight="3.0" />
+      <edge source="Zelensky" target="U.S." id="395" weight="1.0" />
+      <edge source="Zelensky" target="Ukraine-Russia conflict" id="396" weight="1.0" />
+      <edge source="Zelensky" target="Russia-Ukraine war" id="397" weight="2.0" />
+      <edge source="Zelensky" target="Russians" id="398" weight="1.0" />
+      <edge source="Zelensky" target="Vermaut" id="399" weight="1.0" />
+      <edge source="Zelensky" target="UN" id="400" weight="2.0" />
+      <edge source="Zelensky" target="Ukrainians" id="401" weight="2.0" />
+      <edge source="Zelensky" target="NATO" id="402" weight="4.0" />
+      <edge source="Zelensky" target="West" id="403" weight="1.0" />
+      <edge source="Russia's invasion" target="Moscow" id="404" weight="4.0" />
+      <edge source="Russia's invasion" target="China" id="405" weight="4.0" />
+      <edge source="Russia's invasion" target="United States" id="406" weight="1.0" />
+      <edge source="Russia's invasion" target="Europe" id="407" weight="9.0" />
+      <edge source="Russia's invasion" target="Israel" id="408" weight="1.0" />
+      <edge source="Russia's invasion" target="EU" id="409" weight="2.0" />
+      <edge source="Russia's invasion" target="Ukraine crisis" id="410" weight="7.0" />
+      <edge source="Russia's invasion" target="India" id="411" weight="2.0" />
+      <edge source="Russia's invasion" target="U.S." id="412" weight="1.0" />
+      <edge source="Russia's invasion" target="Russia-Ukraine war" id="413" weight="1.0" />
+      <edge source="Russia's invasion" target="Russians" id="414" weight="2.0" />
+      <edge source="Russia's invasion" target="Vermaut" id="415" weight="3.0" />
+      <edge source="Russia's invasion" target="UN" id="416" weight="7.0" />
+      <edge source="Russia's invasion" target="Ukrainians" id="417" weight="3.0" />
+      <edge source="Russia's invasion" target="NATO" id="418" weight="1.0" />
+      <edge source="Russia's invasion" target="West" id="419" weight="4.0" />
+      <edge source="Russia's invasion" target="Belarus" id="420" weight="1.0" />
+      <edge source="Russia's invasion" target="UK" id="421" weight="1.0" />
+      <edge source="Russia's invasion" target="Poland" id="422" weight="5.0" />
+      <edge source="Russia's invasion" target="Estonia" id="423" weight="1.0" />
+      <edge source="Moscow" target="Zelenskyy" id="424" weight="1.0" />
+      <edge source="Moscow" target="China" id="425" weight="9.0" />
+      <edge source="Moscow" target="Kremlin" id="426" weight="2.0" />
+      <edge source="Moscow" target="United States" id="427" weight="9.0" />
+      <edge source="Moscow" target="Europe" id="428" weight="4.0" />
+      <edge source="Moscow" target="Russian invasion" id="429" weight="2.0" />
+      <edge source="Moscow" target="EU" id="430" weight="4.0" />
+      <edge source="Moscow" target="Ukraine crisis" id="431" weight="8.0" />
+      <edge source="Moscow" target="Germany" id="432" weight="2.0" />
+      <edge source="Moscow" target="France" id="433" weight="1.0" />
+      <edge source="Moscow" target="Syria" id="434" weight="1.0" />
+      <edge source="Moscow" target="Finland" id="435" weight="1.0" />
+      <edge source="Moscow" target="India" id="436" weight="4.0" />
+      <edge source="Moscow" target="U.S." id="437" weight="4.0" />
+      <edge source="Moscow" target="Russians" id="438" weight="1.0" />
+      <edge source="Moscow" target="Vermaut" id="439" weight="3.0" />
+      <edge source="Moscow" target="UN" id="440" weight="2.0" />
+      <edge source="Moscow" target="NATO" id="441" weight="4.0" />
+      <edge source="Moscow" target="West" id="442" weight="14.0" />
+      <edge source="Moscow" target="Belarus" id="443" weight="10.0" />
+      <edge source="Moscow" target="UK" id="444" weight="4.0" />
+      <edge source="Moscow" target="Sweden" id="445" weight="2.0" />
+      <edge source="Moscow" target="Poland" id="446" weight="3.0" />
+      <edge source="Zelenskyy" target="China" id="447" weight="1.0" />
+      <edge source="Zelenskyy" target="Europe" id="448" weight="1.0" />
+      <edge source="Zelenskyy" target="Israel" id="449" weight="2.0" />
+      <edge source="Zelenskyy" target="Russian invasion" id="450" weight="3.0" />
+      <edge source="Zelenskyy" target="USA" id="451" weight="1.0" />
+      <edge source="Zelenskyy" target="U.S." id="452" weight="2.0" />
+      <edge source="Zelenskyy" target="Russia-Ukraine war" id="453" weight="1.0" />
+      <edge source="Zelenskyy" target="Russians" id="454" weight="2.0" />
+      <edge source="Zelenskyy" target="Vermaut" id="455" weight="1.0" />
+      <edge source="Zelenskyy" target="Ukrainians" id="456" weight="1.0" />
+      <edge source="Zelenskyy" target="NATO" id="457" weight="2.0" />
+      <edge source="Zelenskyy" target="West" id="458" weight="1.0" />
+      <edge source="Zelenskyy" target="Poland" id="459" weight="1.0" />
+      <edge source="China" target="United States" id="460" weight="10.0" />
+      <edge source="China" target="America" id="461" weight="7.0" />
+      <edge source="China" target="Europe" id="462" weight="15.0" />
+      <edge source="China" target="Russian invasion" id="463" weight="2.0" />
+      <edge source="China" target="EU" id="464" weight="5.0" />
+      <edge source="China" target="Ukraine crisis" id="465" weight="26.0" />
+      <edge source="China" target="Germany" id="466" weight="1.0" />
+      <edge source="China" target="USA" id="467" weight="8.0" />
+      <edge source="China" target="India" id="468" weight="22.0" />
+      <edge source="China" target="U.S." id="469" weight="13.0" />
+      <edge source="China" target="Ukraine-Russia conflict" id="470" weight="8.0" />
+      <edge source="China" target="Russia-Ukraine war" id="471" weight="3.0" />
+      <edge source="China" target="Russians" id="472" weight="2.0" />
+      <edge source="China" target="Vermaut" id="473" weight="1.0" />
+      <edge source="China" target="UN" id="474" weight="2.0" />
+      <edge source="China" target="NATO" id="475" weight="13.0" />
+      <edge source="China" target="West" id="476" weight="14.0" />
+      <edge source="China" target="Belarus" id="477" weight="1.0" />
+      <edge source="China" target="UK" id="478" weight="1.0" />
+      <edge source="Ireland" target="United States" id="479" weight="2.0" />
+      <edge source="Ireland" target="Germany" id="480" weight="5.0" />
+      <edge source="Ireland" target="France" id="481" weight="7.0" />
+      <edge source="Ireland" target="Finland" id="482" weight="5.0" />
+      <edge source="Ireland" target="Italy" id="483" weight="5.0" />
+      <edge source="Ireland" target="United Kingdom" id="484" weight="7.0" />
+      <edge source="Ireland" target="Belarus" id="485" weight="2.0" />
+      <edge source="Ireland" target="Latvia" id="486" weight="5.0" />
+      <edge source="Ireland" target="@SputnikInt's account" id="487" weight="3.0" />
+      <edge source="Ireland" target="Portugal" id="488" weight="5.0" />
+      <edge source="Ireland" target="Sweden" id="489" weight="5.0" />
+      <edge source="Ireland" target="Slovenia" id="490" weight="5.0" />
+      <edge source="Ireland" target="Czech Republic" id="491" weight="5.0" />
+      <edge source="Ireland" target="Poland" id="492" weight="5.0" />
+      <edge source="Ireland" target="Slovakia" id="493" weight="5.0" />
+      <edge source="Ireland" target="Hungary" id="494" weight="5.0" />
+      <edge source="Ireland" target="Malta" id="495" weight="5.0" />
+      <edge source="Ireland" target="Greece" id="496" weight="5.0" />
+      <edge source="Ireland" target="Romania" id="497" weight="5.0" />
+      <edge source="Ireland" target="Netherlands" id="498" weight="5.0" />
+      <edge source="Ireland" target="Austria" id="499" weight="5.0" />
+      <edge source="Ireland" target="Luxembourg" id="500" weight="5.0" />
+      <edge source="Ireland" target="Denmark" id="501" weight="5.0" />
+      <edge source="Ireland" target="Lithuania" id="502" weight="5.0" />
+      <edge source="Ireland" target="Croatia" id="503" weight="5.0" />
+      <edge source="Ireland" target="Estonia" id="504" weight="5.0" />
+      <edge source="Ireland" target="Cyprus" id="505" weight="5.0" />
+      <edge source="Ireland" target="Spain" id="506" weight="5.0" />
+      <edge source="Ireland" target="Belgium" id="507" weight="5.0" />
+      <edge source="Ireland" target="@RT_com's account" id="508" weight="2.0" />
+      <edge source="Kremlin" target="United States" id="509" weight="1.0" />
+      <edge source="Kremlin" target="Europe" id="510" weight="3.0" />
+      <edge source="Kremlin" target="Ukraine crisis" id="511" weight="1.0" />
+      <edge source="Kremlin" target="U.S." id="512" weight="3.0" />
+      <edge source="Kremlin" target="Ukraine-Russia conflict" id="513" weight="1.0" />
+      <edge source="Kremlin" target="NATO" id="514" weight="12.0" />
+      <edge source="Kremlin" target="West" id="515" weight="14.0" />
+      <edge source="Kremlin" target="Poland" id="516" weight="2.0" />
+      <edge source="United States" target="America" id="517" weight="2.0" />
+      <edge source="United States" target="Europe" id="518" weight="2.0" />
+      <edge source="United States" target="Israel" id="519" weight="1.0" />
+      <edge source="United States" target="Russian invasion" id="520" weight="4.0" />
+      <edge source="United States" target="Ukraine crisis" id="521" weight="5.0" />
+      <edge source="United States" target="France" id="522" weight="2.0" />
+      <edge source="United States" target="U.S." id="523" weight="6.0" />
+      <edge source="United States" target="Ukraine-Russia conflict" id="524" weight="1.0" />
+      <edge source="United States" target="Ukrainians" id="525" weight="6.0" />
+      <edge source="United States" target="United Kingdom" id="526" weight="2.0" />
+      <edge source="United States" target="NATO" id="527" weight="8.0" />
+      <edge source="United States" target="West" id="528" weight="2.0" />
+      <edge source="America" target="Europe" id="529" weight="2.0" />
+      <edge source="America" target="EU" id="530" weight="3.0" />
+      <edge source="America" target="Germany" id="531" weight="2.0" />
+      <edge source="America" target="India" id="532" weight="4.0" />
+      <edge source="America" target="U.S." id="533" weight="1.0" />
+      <edge source="America" target="UN" id="534" weight="2.0" />
+      <edge source="America" target="Ukrainians" id="535" weight="1.0" />
+      <edge source="America" target="NATO" id="536" weight="4.0" />
+      <edge source="America" target="West" id="537" weight="1.0" />
+      <edge source="Europe" target="Israel" id="538" weight="7.0" />
+      <edge source="Europe" target="Russian invasion" id="539" weight="3.0" />
+      <edge source="Europe" target="EU" id="540" weight="8.0" />
+      <edge source="Europe" target="Ukraine crisis" id="541" weight="9.0" />
+      <edge source="Europe" target="Germany" id="542" weight="4.0" />
+      <edge source="Europe" target="France" id="543" weight="1.0" />
+      <edge source="Europe" target="USA" id="544" weight="7.0" />
+      <edge source="Europe" target="Syria" id="545" weight="3.0" />
+      <edge source="Europe" target="Finland" id="546" weight="1.0" />
+      <edge source="Europe" target="U.S." id="547" weight="6.0" />
+      <edge source="Europe" target="Ukraine-Russia conflict" id="548" weight="1.0" />
+      <edge source="Europe" target="Russia-Ukraine war" id="549" weight="1.0" />
+      <edge source="Europe" target="Russians" id="550" weight="2.0" />
+      <edge source="Europe" target="Vermaut" id="551" weight="1.0" />
+      <edge source="Europe" target="UN" id="552" weight="1.0" />
+      <edge source="Europe" target="Ukrainians" id="553" weight="2.0" />
+      <edge source="Europe" target="United Kingdom" id="554" weight="1.0" />
+      <edge source="Europe" target="NATO" id="555" weight="14.0" />
+      <edge source="Europe" target="Belarus" id="556" weight="2.0" />
+      <edge source="Europe" target="UK" id="557" weight="6.0" />
+      <edge source="Europe" target="Sweden" id="558" weight="3.0" />
+      <edge source="Europe" target="Poland" id="559" weight="9.0" />
+      <edge source="Europe" target="Austria" id="560" weight="1.0" />
+      <edge source="Israel" target="Ukraine crisis" id="561" weight="3.0" />
+      <edge source="Israel" target="Germany" id="562" weight="1.0" />
+      <edge source="Israel" target="Syria" id="563" weight="7.0" />
+      <edge source="Israel" target="Ukraine-Russia conflict" id="564" weight="2.0" />
+      <edge source="Israel" target="Russia-Ukraine war" id="565" weight="1.0" />
+      <edge source="Israel" target="UN" id="566" weight="2.0" />
+      <edge source="Israel" target="Ukrainians" id="567" weight="2.0" />
+      <edge source="Israel" target="West" id="568" weight="1.0" />
+      <edge source="Israel" target="UK" id="569" weight="2.0" />
+      <edge source="Israel" target="Romania" id="570" weight="2.0" />
+      <edge source="Russian invasion" target="EU" id="571" weight="1.0" />
+      <edge source="Russian invasion" target="Ukraine crisis" id="572" weight="1.0" />
+      <edge source="Russian invasion" target="Germany" id="573" weight="2.0" />
+      <edge source="Russian invasion" target="USA" id="574" weight="1.0" />
+      <edge source="Russian invasion" target="Syria" id="575" weight="1.0" />
+      <edge source="Russian invasion" target="U.S." id="576" weight="3.0" />
+      <edge source="Russian invasion" target="Ukrainians" id="577" weight="4.0" />
+      <edge source="Russian invasion" target="West" id="578" weight="2.0" />
+      <edge source="Russian invasion" target="Belarus" id="579" weight="1.0" />
+      <edge source="Russian invasion" target="UK" id="580" weight="1.0" />
+      <edge source="Russian invasion" target="Poland" id="581" weight="1.0" />
+      <edge source="EU" target="Ukraine crisis" id="582" weight="7.0" />
+      <edge source="EU" target="Germany" id="583" weight="6.0" />
+      <edge source="EU" target="France" id="584" weight="1.0" />
+      <edge source="EU" target="USA" id="585" weight="1.0" />
+      <edge source="EU" target="India" id="586" weight="4.0" />
+      <edge source="EU" target="U.S." id="587" weight="2.0" />
+      <edge source="EU" target="Russia-Ukraine war" id="588" weight="1.0" />
+      <edge source="EU" target="Russians" id="589" weight="1.0" />
+      <edge source="EU" target="Vermaut" id="590" weight="1.0" />
+      <edge source="EU" target="NATO" id="591" weight="4.0" />
+      <edge source="EU" target="West" id="592" weight="3.0" />
+      <edge source="EU" target="UK" id="593" weight="7.0" />
+      <edge source="EU" target="Poland" id="594" weight="1.0" />
+      <edge source="EU" target="Hungary" id="595" weight="2.0" />
+      <edge source="EU" target="Austria" id="596" weight="3.0" />
+      <edge source="Ukraine crisis" target="Germany" id="597" weight="4.0" />
+      <edge source="Ukraine crisis" target="USA" id="598" weight="3.0" />
+      <edge source="Ukraine crisis" target="Syria" id="599" weight="2.0" />
+      <edge source="Ukraine crisis" target="Finland" id="600" weight="3.0" />
+      <edge source="Ukraine crisis" target="India" id="601" weight="8.0" />
+      <edge source="Ukraine crisis" target="U.S." id="602" weight="14.0" />
+      <edge source="Ukraine crisis" target="Russia-Ukraine war" id="603" weight="1.0" />
+      <edge source="Ukraine crisis" target="Russians" id="604" weight="1.0" />
+      <edge source="Ukraine crisis" target="Vermaut" id="605" weight="7.0" />
+      <edge source="Ukraine crisis" target="UN" id="606" weight="18.0" />
+      <edge source="Ukraine crisis" target="Ukrainians" id="607" weight="2.0" />
+      <edge source="Ukraine crisis" target="NATO" id="608" weight="13.0" />
+      <edge source="Ukraine crisis" target="West" id="609" weight="4.0" />
+      <edge source="Ukraine crisis" target="Belarus" id="610" weight="9.0" />
+      <edge source="Ukraine crisis" target="UK" id="611" weight="10.0" />
+      <edge source="Ukraine crisis" target="Sweden" id="612" weight="2.0" />
+      <edge source="Germany" target="France" id="613" weight="9.0" />
+      <edge source="Germany" target="Finland" id="614" weight="5.0" />
+      <edge source="Germany" target="U.S." id="615" weight="2.0" />
+      <edge source="Germany" target="Ukraine-Russia conflict" id="616" weight="3.0" />
+      <edge source="Germany" target="Russia-Ukraine war" id="617" weight="1.0" />
+      <edge source="Germany" target="Vermaut" id="618" weight="1.0" />
+      <edge source="Germany" target="Italy" id="619" weight="6.0" />
+      <edge source="Germany" target="United Kingdom" id="620" weight="5.0" />
+      <edge source="Germany" target="NATO" id="621" weight="5.0" />
+      <edge source="Germany" target="West" id="622" weight="2.0" />
+      <edge source="Germany" target="Latvia" id="623" weight="5.0" />
+      <edge source="Germany" target="@SputnikInt's account" id="624" weight="3.0" />
+      <edge source="Germany" target="Portugal" id="625" weight="5.0" />
+      <edge source="Germany" target="Sweden" id="626" weight="5.0" />
+      <edge source="Germany" target="Slovenia" id="627" weight="5.0" />
+      <edge source="Germany" target="Czech Republic" id="628" weight="5.0" />
+      <edge source="Germany" target="Poland" id="629" weight="5.0" />
+      <edge source="Germany" target="Slovakia" id="630" weight="5.0" />
+      <edge source="Germany" target="Hungary" id="631" weight="7.0" />
+      <edge source="Germany" target="Malta" id="632" weight="5.0" />
+      <edge source="Germany" target="Greece" id="633" weight="5.0" />
+      <edge source="Germany" target="Romania" id="634" weight="5.0" />
+      <edge source="Germany" target="Netherlands" id="635" weight="5.0" />
+      <edge source="Germany" target="Austria" id="636" weight="7.0" />
+      <edge source="Germany" target="Luxembourg" id="637" weight="5.0" />
+      <edge source="Germany" target="Denmark" id="638" weight="5.0" />
+      <edge source="Germany" target="Lithuania" id="639" weight="5.0" />
+      <edge source="Germany" target="Croatia" id="640" weight="5.0" />
+      <edge source="Germany" target="Estonia" id="641" weight="5.0" />
+      <edge source="Germany" target="Cyprus" id="642" weight="5.0" />
+      <edge source="Germany" target="Spain" id="643" weight="5.0" />
+      <edge source="Germany" target="Belgium" id="644" weight="5.0" />
+      <edge source="Germany" target="@RT_com's account" id="645" weight="2.0" />
+      <edge source="France" target="USA" id="646" weight="2.0" />
+      <edge source="France" target="Syria" id="647" weight="1.0" />
+      <edge source="France" target="Finland" id="648" weight="5.0" />
+      <edge source="France" target="Russia-Ukraine war" id="649" weight="1.0" />
+      <edge source="France" target="Italy" id="650" weight="6.0" />
+      <edge source="France" target="United Kingdom" id="651" weight="7.0" />
+      <edge source="France" target="NATO" id="652" weight="3.0" />
+      <edge source="France" target="Latvia" id="653" weight="5.0" />
+      <edge source="France" target="@SputnikInt's account" id="654" weight="3.0" />
+      <edge source="France" target="Portugal" id="655" weight="5.0" />
+      <edge source="France" target="Sweden" id="656" weight="5.0" />
+      <edge source="France" target="Slovenia" id="657" weight="5.0" />
+      <edge source="France" target="Czech Republic" id="658" weight="5.0" />
+      <edge source="France" target="Poland" id="659" weight="5.0" />
+      <edge source="France" target="Slovakia" id="660" weight="5.0" />
+      <edge source="France" target="Hungary" id="661" weight="5.0" />
+      <edge source="France" target="Malta" id="662" weight="5.0" />
+      <edge source="France" target="Greece" id="663" weight="5.0" />
+      <edge source="France" target="Romania" id="664" weight="5.0" />
+      <edge source="France" target="Netherlands" id="665" weight="5.0" />
+      <edge source="France" target="Austria" id="666" weight="5.0" />
+      <edge source="France" target="Luxembourg" id="667" weight="5.0" />
+      <edge source="France" target="Denmark" id="668" weight="5.0" />
+      <edge source="France" target="Lithuania" id="669" weight="5.0" />
+      <edge source="France" target="Croatia" id="670" weight="5.0" />
+      <edge source="France" target="Estonia" id="671" weight="5.0" />
+      <edge source="France" target="Cyprus" id="672" weight="5.0" />
+      <edge source="France" target="Spain" id="673" weight="5.0" />
+      <edge source="France" target="Belgium" id="674" weight="5.0" />
+      <edge source="France" target="@RT_com's account" id="675" weight="2.0" />
+      <edge source="USA" target="Syria" id="676" weight="1.0" />
+      <edge source="USA" target="India" id="677" weight="5.0" />
+      <edge source="USA" target="Ukraine-Russia conflict" id="678" weight="1.0" />
+      <edge source="USA" target="Russians" id="679" weight="2.0" />
+      <edge source="USA" target="UN" id="680" weight="1.0" />
+      <edge source="USA" target="Ukrainians" id="681" weight="1.0" />
+      <edge source="USA" target="NATO" id="682" weight="7.0" />
+      <edge source="USA" target="UK" id="683" weight="6.0" />
+      <edge source="Syria" target="Russia-Ukraine war" id="684" weight="2.0" />
+      <edge source="Syria" target="UN" id="685" weight="1.0" />
+      <edge source="Syria" target="NATO" id="686" weight="3.0" />
+      <edge source="Syria" target="West" id="687" weight="1.0" />
+      <edge source="Syria" target="Belarus" id="688" weight="1.0" />
+      <edge source="Syria" target="Poland" id="689" weight="1.0" />
+      <edge source="Finland" target="Italy" id="690" weight="5.0" />
+      <edge source="Finland" target="United Kingdom" id="691" weight="5.0" />
+      <edge source="Finland" target="NATO" id="692" weight="6.0" />
+      <edge source="Finland" target="UK" id="693" weight="1.0" />
+      <edge source="Finland" target="Latvia" id="694" weight="5.0" />
+      <edge source="Finland" target="@SputnikInt's account" id="695" weight="3.0" />
+      <edge source="Finland" target="Portugal" id="696" weight="5.0" />
+      <edge source="Finland" target="Sweden" id="697" weight="7.0" />
+      <edge source="Finland" target="Slovenia" id="698" weight="5.0" />
+      <edge source="Finland" target="Czech Republic" id="699" weight="5.0" />
+      <edge source="Finland" target="Poland" id="700" weight="6.0" />
+      <edge source="Finland" target="Slovakia" id="701" weight="5.0" />
+      <edge source="Finland" target="Hungary" id="702" weight="5.0" />
+      <edge source="Finland" target="Malta" id="703" weight="5.0" />
+      <edge source="Finland" target="Greece" id="704" weight="5.0" />
+      <edge source="Finland" target="Romania" id="705" weight="5.0" />
+      <edge source="Finland" target="Netherlands" id="706" weight="5.0" />
+      <edge source="Finland" target="Austria" id="707" weight="5.0" />
+      <edge source="Finland" target="Luxembourg" id="708" weight="5.0" />
+      <edge source="Finland" target="Denmark" id="709" weight="5.0" />
+      <edge source="Finland" target="Lithuania" id="710" weight="5.0" />
+      <edge source="Finland" target="Croatia" id="711" weight="5.0" />
+      <edge source="Finland" target="Estonia" id="712" weight="5.0" />
+      <edge source="Finland" target="Cyprus" id="713" weight="5.0" />
+      <edge source="Finland" target="Spain" id="714" weight="5.0" />
+      <edge source="Finland" target="Belgium" id="715" weight="5.0" />
+      <edge source="Finland" target="@RT_com's account" id="716" weight="2.0" />
+      <edge source="India" target="Ukraine-Russia conflict" id="717" weight="2.0" />
+      <edge source="India" target="Russia-Ukraine war" id="718" weight="3.0" />
+      <edge source="India" target="Vermaut" id="719" weight="2.0" />
+      <edge source="India" target="UN" id="720" weight="6.0" />
+      <edge source="India" target="UK" id="721" weight="4.0" />
+      <edge source="India" target="Poland" id="722" weight="12.0" />
+      <edge source="U.S." target="Russians" id="723" weight="2.0" />
+      <edge source="U.S." target="Ukrainians" id="724" weight="1.0" />
+      <edge source="U.S." target="NATO" id="725" weight="13.0" />
+      <edge source="U.S." target="West" id="726" weight="2.0" />
+      <edge source="U.S." target="Belarus" id="727" weight="9.0" />
+      <edge source="Ukraine-Russia conflict" target="Italy" id="728" weight="1.0" />
+      <edge source="Ukraine-Russia conflict" target="UN" id="729" weight="1.0" />
+      <edge source="Ukraine-Russia conflict" target="NATO" id="730" weight="7.0" />
+      <edge source="Ukraine-Russia conflict" target="Poland" id="731" weight="1.0" />
+      <edge source="Russia-Ukraine war" target="Italy" id="732" weight="1.0" />
+      <edge source="Russians" target="Ukrainians" id="733" weight="4.0" />
+      <edge source="Russians" target="NATO" id="734" weight="1.0" />
+      <edge source="Russians" target="West" id="735" weight="1.0" />
+      <edge source="Russians" target="UK" id="736" weight="1.0" />
+      <edge source="Russians" target="Poland" id="737" weight="1.0" />
+      <edge source="Vermaut" target="UN" id="738" weight="1.0" />
+      <edge source="Vermaut" target="NATO" id="739" weight="4.0" />
+      <edge source="Vermaut" target="West" id="740" weight="1.0" />
+      <edge source="Vermaut" target="Belarus" id="741" weight="2.0" />
+      <edge source="Vermaut" target="UK" id="742" weight="1.0" />
+      <edge source="Italy" target="United Kingdom" id="743" weight="5.0" />
+      <edge source="Italy" target="Latvia" id="744" weight="5.0" />
+      <edge source="Italy" target="@SputnikInt's account" id="745" weight="3.0" />
+      <edge source="Italy" target="Portugal" id="746" weight="5.0" />
+      <edge source="Italy" target="Sweden" id="747" weight="5.0" />
+      <edge source="Italy" target="Slovenia" id="748" weight="5.0" />
+      <edge source="Italy" target="Czech Republic" id="749" weight="5.0" />
+      <edge source="Italy" target="Poland" id="750" weight="5.0" />
+      <edge source="Italy" target="Slovakia" id="751" weight="5.0" />
+      <edge source="Italy" target="Hungary" id="752" weight="5.0" />
+      <edge source="Italy" target="Malta" id="753" weight="5.0" />
+      <edge source="Italy" target="Greece" id="754" weight="5.0" />
+      <edge source="Italy" target="Romania" id="755" weight="5.0" />
+      <edge source="Italy" target="Netherlands" id="756" weight="5.0" />
+      <edge source="Italy" target="Austria" id="757" weight="5.0" />
+      <edge source="Italy" target="Luxembourg" id="758" weight="5.0" />
+      <edge source="Italy" target="Denmark" id="759" weight="5.0" />
+      <edge source="Italy" target="Lithuania" id="760" weight="5.0" />
+      <edge source="Italy" target="Croatia" id="761" weight="5.0" />
+      <edge source="Italy" target="Estonia" id="762" weight="5.0" />
+      <edge source="Italy" target="Cyprus" id="763" weight="5.0" />
+      <edge source="Italy" target="Spain" id="764" weight="5.0" />
+      <edge source="Italy" target="Belgium" id="765" weight="5.0" />
+      <edge source="Italy" target="@RT_com's account" id="766" weight="2.0" />
+      <edge source="UN" target="NATO" id="767" weight="4.0" />
+      <edge source="UN" target="West" id="768" weight="2.0" />
+      <edge source="UN" target="UK" id="769" weight="2.0" />
+      <edge source="Ukrainians" target="NATO" id="770" weight="1.0" />
+      <edge source="Ukrainians" target="West" id="771" weight="2.0" />
+      <edge source="Ukrainians" target="Romania" id="772" weight="1.0" />
+      <edge source="United Kingdom" target="Latvia" id="773" weight="5.0" />
+      <edge source="United Kingdom" target="@SputnikInt's account" id="774" weight="3.0" />
+      <edge source="United Kingdom" target="Portugal" id="775" weight="5.0" />
+      <edge source="United Kingdom" target="Sweden" id="776" weight="5.0" />
+      <edge source="United Kingdom" target="Slovenia" id="777" weight="5.0" />
+      <edge source="United Kingdom" target="Czech Republic" id="778" weight="5.0" />
+      <edge source="United Kingdom" target="Poland" id="779" weight="5.0" />
+      <edge source="United Kingdom" target="Slovakia" id="780" weight="5.0" />
+      <edge source="United Kingdom" target="Hungary" id="781" weight="5.0" />
+      <edge source="United Kingdom" target="Malta" id="782" weight="5.0" />
+      <edge source="United Kingdom" target="Greece" id="783" weight="5.0" />
+      <edge source="United Kingdom" target="Romania" id="784" weight="5.0" />
+      <edge source="United Kingdom" target="Netherlands" id="785" weight="5.0" />
+      <edge source="United Kingdom" target="Austria" id="786" weight="5.0" />
+      <edge source="United Kingdom" target="Luxembourg" id="787" weight="5.0" />
+      <edge source="United Kingdom" target="Denmark" id="788" weight="5.0" />
+      <edge source="United Kingdom" target="Lithuania" id="789" weight="5.0" />
+      <edge source="United Kingdom" target="Croatia" id="790" weight="5.0" />
+      <edge source="United Kingdom" target="Estonia" id="791" weight="5.0" />
+      <edge source="United Kingdom" target="Cyprus" id="792" weight="5.0" />
+      <edge source="United Kingdom" target="Spain" id="793" weight="5.0" />
+      <edge source="United Kingdom" target="Belgium" id="794" weight="5.0" />
+      <edge source="United Kingdom" target="@RT_com's account" id="795" weight="2.0" />
+      <edge source="NATO" target="West" id="796" weight="5.0" />
+      <edge source="NATO" target="Belarus" id="797" weight="1.0" />
+      <edge source="NATO" target="UK" id="798" weight="5.0" />
+      <edge source="NATO" target="Sweden" id="799" weight="2.0" />
+      <edge source="NATO" target="Poland" id="800" weight="2.0" />
+      <edge source="West" target="UK" id="801" weight="1.0" />
+      <edge source="West" target="Poland" id="802" weight="2.0" />
+      <edge source="Belarus" target="Hungary" id="803" weight="1.0" />
+      <edge source="Belarus" target="Lithuania" id="804" weight="1.0" />
+      <edge source="UK" target="Poland" id="805" weight="1.0" />
+      <edge source="Latvia" target="@SputnikInt's account" id="806" weight="3.0" />
+      <edge source="Latvia" target="Portugal" id="807" weight="5.0" />
+      <edge source="Latvia" target="Sweden" id="808" weight="5.0" />
+      <edge source="Latvia" target="Slovenia" id="809" weight="5.0" />
+      <edge source="Latvia" target="Czech Republic" id="810" weight="5.0" />
+      <edge source="Latvia" target="Poland" id="811" weight="5.0" />
+      <edge source="Latvia" target="Slovakia" id="812" weight="5.0" />
+      <edge source="Latvia" target="Hungary" id="813" weight="5.0" />
+      <edge source="Latvia" target="Malta" id="814" weight="5.0" />
+      <edge source="Latvia" target="Greece" id="815" weight="5.0" />
+      <edge source="Latvia" target="Romania" id="816" weight="5.0" />
+      <edge source="Latvia" target="Netherlands" id="817" weight="5.0" />
+      <edge source="Latvia" target="Austria" id="818" weight="5.0" />
+      <edge source="Latvia" target="Luxembourg" id="819" weight="5.0" />
+      <edge source="Latvia" target="Denmark" id="820" weight="5.0" />
+      <edge source="Latvia" target="Lithuania" id="821" weight="5.0" />
+      <edge source="Latvia" target="Croatia" id="822" weight="5.0" />
+      <edge source="Latvia" target="Estonia" id="823" weight="5.0" />
+      <edge source="Latvia" target="Cyprus" id="824" weight="5.0" />
+      <edge source="Latvia" target="Spain" id="825" weight="5.0" />
+      <edge source="Latvia" target="Belgium" id="826" weight="5.0" />
+      <edge source="Latvia" target="@RT_com's account" id="827" weight="2.0" />
+      <edge source="@SputnikInt's account" target="Portugal" id="828" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Sweden" id="829" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Slovenia" id="830" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Czech Republic" id="831" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Poland" id="832" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Slovakia" id="833" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Hungary" id="834" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Malta" id="835" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Greece" id="836" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Romania" id="837" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Netherlands" id="838" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Austria" id="839" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Luxembourg" id="840" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Denmark" id="841" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Lithuania" id="842" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Croatia" id="843" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Estonia" id="844" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Cyprus" id="845" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Spain" id="846" weight="3.0" />
+      <edge source="@SputnikInt's account" target="Belgium" id="847" weight="3.0" />
+      <edge source="Portugal" target="Sweden" id="848" weight="5.0" />
+      <edge source="Portugal" target="Slovenia" id="849" weight="5.0" />
+      <edge source="Portugal" target="Czech Republic" id="850" weight="5.0" />
+      <edge source="Portugal" target="Poland" id="851" weight="5.0" />
+      <edge source="Portugal" target="Slovakia" id="852" weight="5.0" />
+      <edge source="Portugal" target="Hungary" id="853" weight="5.0" />
+      <edge source="Portugal" target="Malta" id="854" weight="5.0" />
+      <edge source="Portugal" target="Greece" id="855" weight="5.0" />
+      <edge source="Portugal" target="Romania" id="856" weight="5.0" />
+      <edge source="Portugal" target="Netherlands" id="857" weight="5.0" />
+      <edge source="Portugal" target="Austria" id="858" weight="5.0" />
+      <edge source="Portugal" target="Luxembourg" id="859" weight="5.0" />
+      <edge source="Portugal" target="Denmark" id="860" weight="5.0" />
+      <edge source="Portugal" target="Lithuania" id="861" weight="5.0" />
+      <edge source="Portugal" target="Croatia" id="862" weight="5.0" />
+      <edge source="Portugal" target="Estonia" id="863" weight="5.0" />
+      <edge source="Portugal" target="Cyprus" id="864" weight="5.0" />
+      <edge source="Portugal" target="Spain" id="865" weight="5.0" />
+      <edge source="Portugal" target="Belgium" id="866" weight="5.0" />
+      <edge source="Portugal" target="@RT_com's account" id="867" weight="2.0" />
+      <edge source="Sweden" target="Slovenia" id="868" weight="5.0" />
+      <edge source="Sweden" target="Czech Republic" id="869" weight="5.0" />
+      <edge source="Sweden" target="Poland" id="870" weight="6.0" />
+      <edge source="Sweden" target="Slovakia" id="871" weight="5.0" />
+      <edge source="Sweden" target="Hungary" id="872" weight="5.0" />
+      <edge source="Sweden" target="Malta" id="873" weight="5.0" />
+      <edge source="Sweden" target="Greece" id="874" weight="5.0" />
+      <edge source="Sweden" target="Romania" id="875" weight="5.0" />
+      <edge source="Sweden" target="Netherlands" id="876" weight="5.0" />
+      <edge source="Sweden" target="Austria" id="877" weight="6.0" />
+      <edge source="Sweden" target="Luxembourg" id="878" weight="5.0" />
+      <edge source="Sweden" target="Denmark" id="879" weight="5.0" />
+      <edge source="Sweden" target="Lithuania" id="880" weight="5.0" />
+      <edge source="Sweden" target="Croatia" id="881" weight="5.0" />
+      <edge source="Sweden" target="Estonia" id="882" weight="5.0" />
+      <edge source="Sweden" target="Cyprus" id="883" weight="5.0" />
+      <edge source="Sweden" target="Spain" id="884" weight="5.0" />
+      <edge source="Sweden" target="Belgium" id="885" weight="5.0" />
+      <edge source="Sweden" target="@RT_com's account" id="886" weight="2.0" />
+      <edge source="Slovenia" target="Czech Republic" id="887" weight="6.0" />
+      <edge source="Slovenia" target="Poland" id="888" weight="6.0" />
+      <edge source="Slovenia" target="Slovakia" id="889" weight="5.0" />
+      <edge source="Slovenia" target="Hungary" id="890" weight="6.0" />
+      <edge source="Slovenia" target="Malta" id="891" weight="5.0" />
+      <edge source="Slovenia" target="Greece" id="892" weight="5.0" />
+      <edge source="Slovenia" target="Romania" id="893" weight="5.0" />
+      <edge source="Slovenia" target="Netherlands" id="894" weight="5.0" />
+      <edge source="Slovenia" target="Austria" id="895" weight="5.0" />
+      <edge source="Slovenia" target="Luxembourg" id="896" weight="5.0" />
+      <edge source="Slovenia" target="Denmark" id="897" weight="5.0" />
+      <edge source="Slovenia" target="Lithuania" id="898" weight="5.0" />
+      <edge source="Slovenia" target="Croatia" id="899" weight="5.0" />
+      <edge source="Slovenia" target="Estonia" id="900" weight="5.0" />
+      <edge source="Slovenia" target="Cyprus" id="901" weight="5.0" />
+      <edge source="Slovenia" target="Spain" id="902" weight="5.0" />
+      <edge source="Slovenia" target="Belgium" id="903" weight="5.0" />
+      <edge source="Slovenia" target="@RT_com's account" id="904" weight="2.0" />
+      <edge source="Czech Republic" target="Poland" id="905" weight="6.0" />
+      <edge source="Czech Republic" target="Slovakia" id="906" weight="5.0" />
+      <edge source="Czech Republic" target="Hungary" id="907" weight="5.0" />
+      <edge source="Czech Republic" target="Malta" id="908" weight="5.0" />
+      <edge source="Czech Republic" target="Greece" id="909" weight="5.0" />
+      <edge source="Czech Republic" target="Romania" id="910" weight="5.0" />
+      <edge source="Czech Republic" target="Netherlands" id="911" weight="5.0" />
+      <edge source="Czech Republic" target="Austria" id="912" weight="5.0" />
+      <edge source="Czech Republic" target="Luxembourg" id="913" weight="5.0" />
+      <edge source="Czech Republic" target="Denmark" id="914" weight="5.0" />
+      <edge source="Czech Republic" target="Lithuania" id="915" weight="5.0" />
+      <edge source="Czech Republic" target="Croatia" id="916" weight="5.0" />
+      <edge source="Czech Republic" target="Estonia" id="917" weight="5.0" />
+      <edge source="Czech Republic" target="Cyprus" id="918" weight="5.0" />
+      <edge source="Czech Republic" target="Spain" id="919" weight="5.0" />
+      <edge source="Czech Republic" target="Belgium" id="920" weight="5.0" />
+      <edge source="Czech Republic" target="@RT_com's account" id="921" weight="2.0" />
+      <edge source="Poland" target="Slovakia" id="922" weight="5.0" />
+      <edge source="Poland" target="Hungary" id="923" weight="5.0" />
+      <edge source="Poland" target="Malta" id="924" weight="5.0" />
+      <edge source="Poland" target="Greece" id="925" weight="5.0" />
+      <edge source="Poland" target="Romania" id="926" weight="15.0" />
+      <edge source="Poland" target="Netherlands" id="927" weight="5.0" />
+      <edge source="Poland" target="Austria" id="928" weight="5.0" />
+      <edge source="Poland" target="Luxembourg" id="929" weight="5.0" />
+      <edge source="Poland" target="Denmark" id="930" weight="5.0" />
+      <edge source="Poland" target="Lithuania" id="931" weight="5.0" />
+      <edge source="Poland" target="Croatia" id="932" weight="5.0" />
+      <edge source="Poland" target="Estonia" id="933" weight="5.0" />
+      <edge source="Poland" target="Cyprus" id="934" weight="5.0" />
+      <edge source="Poland" target="Spain" id="935" weight="5.0" />
+      <edge source="Poland" target="Belgium" id="936" weight="5.0" />
+      <edge source="Poland" target="@RT_com's account" id="937" weight="2.0" />
+      <edge source="Slovakia" target="Hungary" id="938" weight="5.0" />
+      <edge source="Slovakia" target="Malta" id="939" weight="5.0" />
+      <edge source="Slovakia" target="Greece" id="940" weight="5.0" />
+      <edge source="Slovakia" target="Romania" id="941" weight="5.0" />
+      <edge source="Slovakia" target="Netherlands" id="942" weight="5.0" />
+      <edge source="Slovakia" target="Austria" id="943" weight="5.0" />
+      <edge source="Slovakia" target="Luxembourg" id="944" weight="5.0" />
+      <edge source="Slovakia" target="Denmark" id="945" weight="5.0" />
+      <edge source="Slovakia" target="Lithuania" id="946" weight="5.0" />
+      <edge source="Slovakia" target="Croatia" id="947" weight="5.0" />
+      <edge source="Slovakia" target="Estonia" id="948" weight="5.0" />
+      <edge source="Slovakia" target="Cyprus" id="949" weight="5.0" />
+      <edge source="Slovakia" target="Spain" id="950" weight="5.0" />
+      <edge source="Slovakia" target="Belgium" id="951" weight="5.0" />
+      <edge source="Slovakia" target="@RT_com's account" id="952" weight="2.0" />
+      <edge source="Hungary" target="Malta" id="953" weight="5.0" />
+      <edge source="Hungary" target="Greece" id="954" weight="5.0" />
+      <edge source="Hungary" target="Romania" id="955" weight="5.0" />
+      <edge source="Hungary" target="Netherlands" id="956" weight="5.0" />
+      <edge source="Hungary" target="Austria" id="957" weight="7.0" />
+      <edge source="Hungary" target="Luxembourg" id="958" weight="5.0" />
+      <edge source="Hungary" target="Denmark" id="959" weight="5.0" />
+      <edge source="Hungary" target="Lithuania" id="960" weight="5.0" />
+      <edge source="Hungary" target="Croatia" id="961" weight="5.0" />
+      <edge source="Hungary" target="Estonia" id="962" weight="6.0" />
+      <edge source="Hungary" target="Cyprus" id="963" weight="5.0" />
+      <edge source="Hungary" target="Spain" id="964" weight="5.0" />
+      <edge source="Hungary" target="Belgium" id="965" weight="5.0" />
+      <edge source="Hungary" target="@RT_com's account" id="966" weight="2.0" />
+      <edge source="Malta" target="Greece" id="967" weight="5.0" />
+      <edge source="Malta" target="Romania" id="968" weight="5.0" />
+      <edge source="Malta" target="Netherlands" id="969" weight="5.0" />
+      <edge source="Malta" target="Austria" id="970" weight="5.0" />
+      <edge source="Malta" target="Luxembourg" id="971" weight="5.0" />
+      <edge source="Malta" target="Denmark" id="972" weight="5.0" />
+      <edge source="Malta" target="Lithuania" id="973" weight="5.0" />
+      <edge source="Malta" target="Croatia" id="974" weight="5.0" />
+      <edge source="Malta" target="Estonia" id="975" weight="5.0" />
+      <edge source="Malta" target="Cyprus" id="976" weight="5.0" />
+      <edge source="Malta" target="Spain" id="977" weight="5.0" />
+      <edge source="Malta" target="Belgium" id="978" weight="5.0" />
+      <edge source="Malta" target="@RT_com's account" id="979" weight="2.0" />
+      <edge source="Greece" target="Romania" id="980" weight="5.0" />
+      <edge source="Greece" target="Netherlands" id="981" weight="5.0" />
+      <edge source="Greece" target="Austria" id="982" weight="5.0" />
+      <edge source="Greece" target="Luxembourg" id="983" weight="5.0" />
+      <edge source="Greece" target="Denmark" id="984" weight="5.0" />
+      <edge source="Greece" target="Lithuania" id="985" weight="5.0" />
+      <edge source="Greece" target="Croatia" id="986" weight="5.0" />
+      <edge source="Greece" target="Estonia" id="987" weight="5.0" />
+      <edge source="Greece" target="Cyprus" id="988" weight="5.0" />
+      <edge source="Greece" target="Spain" id="989" weight="5.0" />
+      <edge source="Greece" target="Belgium" id="990" weight="5.0" />
+      <edge source="Greece" target="@RT_com's account" id="991" weight="2.0" />
+      <edge source="Romania" target="Netherlands" id="992" weight="5.0" />
+      <edge source="Romania" target="Austria" id="993" weight="5.0" />
+      <edge source="Romania" target="Luxembourg" id="994" weight="5.0" />
+      <edge source="Romania" target="Denmark" id="995" weight="5.0" />
+      <edge source="Romania" target="Lithuania" id="996" weight="5.0" />
+      <edge source="Romania" target="Croatia" id="997" weight="5.0" />
+      <edge source="Romania" target="Estonia" id="998" weight="5.0" />
+      <edge source="Romania" target="Cyprus" id="999" weight="5.0" />
+      <edge source="Romania" target="Spain" id="1000" weight="5.0" />
+      <edge source="Romania" target="Belgium" id="1001" weight="5.0" />
+      <edge source="Romania" target="@RT_com's account" id="1002" weight="2.0" />
+      <edge source="Netherlands" target="Austria" id="1003" weight="5.0" />
+      <edge source="Netherlands" target="Luxembourg" id="1004" weight="5.0" />
+      <edge source="Netherlands" target="Denmark" id="1005" weight="5.0" />
+      <edge source="Netherlands" target="Lithuania" id="1006" weight="5.0" />
+      <edge source="Netherlands" target="Croatia" id="1007" weight="5.0" />
+      <edge source="Netherlands" target="Estonia" id="1008" weight="5.0" />
+      <edge source="Netherlands" target="Cyprus" id="1009" weight="5.0" />
+      <edge source="Netherlands" target="Spain" id="1010" weight="5.0" />
+      <edge source="Netherlands" target="Belgium" id="1011" weight="5.0" />
+      <edge source="Netherlands" target="@RT_com's account" id="1012" weight="2.0" />
+      <edge source="Austria" target="Luxembourg" id="1013" weight="5.0" />
+      <edge source="Austria" target="Denmark" id="1014" weight="5.0" />
+      <edge source="Austria" target="Lithuania" id="1015" weight="5.0" />
+      <edge source="Austria" target="Croatia" id="1016" weight="5.0" />
+      <edge source="Austria" target="Estonia" id="1017" weight="5.0" />
+      <edge source="Austria" target="Cyprus" id="1018" weight="5.0" />
+      <edge source="Austria" target="Spain" id="1019" weight="5.0" />
+      <edge source="Austria" target="Belgium" id="1020" weight="5.0" />
+      <edge source="Austria" target="@RT_com's account" id="1021" weight="2.0" />
+      <edge source="Luxembourg" target="Denmark" id="1022" weight="5.0" />
+      <edge source="Luxembourg" target="Lithuania" id="1023" weight="5.0" />
+      <edge source="Luxembourg" target="Croatia" id="1024" weight="5.0" />
+      <edge source="Luxembourg" target="Estonia" id="1025" weight="5.0" />
+      <edge source="Luxembourg" target="Cyprus" id="1026" weight="5.0" />
+      <edge source="Luxembourg" target="Spain" id="1027" weight="5.0" />
+      <edge source="Luxembourg" target="Belgium" id="1028" weight="5.0" />
+      <edge source="Luxembourg" target="@RT_com's account" id="1029" weight="2.0" />
+      <edge source="Denmark" target="Lithuania" id="1030" weight="5.0" />
+      <edge source="Denmark" target="Croatia" id="1031" weight="5.0" />
+      <edge source="Denmark" target="Estonia" id="1032" weight="5.0" />
+      <edge source="Denmark" target="Cyprus" id="1033" weight="5.0" />
+      <edge source="Denmark" target="Spain" id="1034" weight="5.0" />
+      <edge source="Denmark" target="Belgium" id="1035" weight="5.0" />
+      <edge source="Denmark" target="@RT_com's account" id="1036" weight="2.0" />
+      <edge source="Lithuania" target="Croatia" id="1037" weight="5.0" />
+      <edge source="Lithuania" target="Estonia" id="1038" weight="5.0" />
+      <edge source="Lithuania" target="Cyprus" id="1039" weight="5.0" />
+      <edge source="Lithuania" target="Spain" id="1040" weight="5.0" />
+      <edge source="Lithuania" target="Belgium" id="1041" weight="5.0" />
+      <edge source="Lithuania" target="@RT_com's account" id="1042" weight="2.0" />
+      <edge source="Croatia" target="Estonia" id="1043" weight="5.0" />
+      <edge source="Croatia" target="Cyprus" id="1044" weight="5.0" />
+      <edge source="Croatia" target="Spain" id="1045" weight="5.0" />
+      <edge source="Croatia" target="Belgium" id="1046" weight="5.0" />
+      <edge source="Croatia" target="@RT_com's account" id="1047" weight="2.0" />
+      <edge source="Estonia" target="Cyprus" id="1048" weight="5.0" />
+      <edge source="Estonia" target="Spain" id="1049" weight="5.0" />
+      <edge source="Estonia" target="Belgium" id="1050" weight="5.0" />
+      <edge source="Estonia" target="@RT_com's account" id="1051" weight="2.0" />
+      <edge source="Cyprus" target="Spain" id="1052" weight="5.0" />
+      <edge source="Cyprus" target="Belgium" id="1053" weight="5.0" />
+      <edge source="Cyprus" target="@RT_com's account" id="1054" weight="2.0" />
+      <edge source="Spain" target="Belgium" id="1055" weight="5.0" />
+      <edge source="Spain" target="@RT_com's account" id="1056" weight="2.0" />
+      <edge source="Belgium" target="@RT_com's account" id="1057" weight="2.0" />
+    </edges>
+  </graph>
+</gexf>
